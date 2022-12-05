@@ -3,24 +3,18 @@ import xml.etree.ElementTree as ET
 import lxml.etree as et
 import re
 
-# change FILENAME to local path
+# change FILENAME
 FILENAME = "tlg0012.tlg001.perseus-grc1.tb.xml"
+# change as necessary
+LOCALROOT  = '/Users/bellahwang/Documents/GitHub/'
+LOCALPATH  = os.path.join(LOCALROOT, 'gAGDT', 'data', 'xml', FILENAME)
 
 # new output file
-NEWFILE = "iliad_purposeclauses_v3.xml"
+NEWFILE = "iliad_purposeclauses.xml"
 
 def labelPurpClauses():
     tree = ET.parse(FILENAME)
     root = tree.getroot()
-
-"""     for sentence in root.findall(".//sentence"):
-    for word in sentence.findall("./word"):
-        lemma = word.get('lemma')
-        if (lemma == "ἵνα" or lemma == "ὅπως" or lemma == "ὡς" or lemma == "μή" or lemma == "ὄφρα" or lemma == "ἕως"):
-            word.set('hasconj', 'T')
-        else:
-            word.set('hasconj', 'F')
-tree.write(NEWFILE, encoding = "UTF-8") """
 
     for sentence in root.findall(".//sentence"):
         verbid = 1000001

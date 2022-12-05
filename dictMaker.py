@@ -3,12 +3,12 @@ import xml.etree.ElementTree as ET
 import networkx as nx
 import matplotlib.pyplot as plt
 import os.path
-import yaml
 import json
 from networkx.readwrite import json_graph
 
 # change FILENAME to local path
 FILENAME = "iliad_purposeclauses.xml"
+LOCALROOT = '/Users/bellahwang/Documents/GitHub'
 
 def makeIdDict(givenSentID):
     tree = ET.parse(FILENAME)
@@ -44,12 +44,10 @@ def makeHeadDict(givenSentID):
     return HeadDict
 
 def matchDicts(IdDict, HeadDict):
-    #MatchedDict = {}
     
     IdFormList = returnIdFormList(IdDict)
     HeadFormList = returnHeadFormList(IdDict, HeadDict)
     MatchedDict = dict(zip(IdFormList, HeadFormList))
-    #print(MatchedDict.items(), sep = '\n')
 
     return MatchedDict
 
@@ -141,7 +139,7 @@ def createGraphML():
     tree = ET.parse(FILENAME)
     root = tree.getroot()
     
-    LOCALROOT = '/Users/bellahwang/Documents/GitHub/'
+    
     save_path  = os.path.join(LOCALROOT, 'purposeclauses', 'Iliad_JSON')
     for sentence in root.findall(".//sentence"):
         sentID = sentence.get('id')
@@ -155,7 +153,6 @@ def createJSON():
     tree = ET.parse(FILENAME)
     root = tree.getroot()
     
-    LOCALROOT = '/Users/bellahwang/Documents/GitHub/'
     save_path  = os.path.join(LOCALROOT, 'purposeclauses', 'Iliad_JSON')
     for sentence in root.findall(".//sentence"):
         sentID = sentence.get('id')
@@ -172,9 +169,8 @@ def createJSONTree():
     tree = ET.parse(FILENAME)
     root = tree.getroot()
     
-    LOCALROOT = '/Users/bellahwang/Documents/GitHub/'
     save_path  = os.path.join(LOCALROOT, 'purposeclauses', 'Iliad_JSON')
-    
+
     for sentence in root.findall(".//sentence"):
         sentID = sentence.get('id')
         G = makeNetwork(sentID)
@@ -186,24 +182,12 @@ def createJSONTree():
         completeName = None
 
 # H = makeNetwork('2274115')
-# data = json_graph.tree_data(H, root='ROOT')
-# with open('debug.json', 'w', encoding='utf8') as json_file:
-#     json.dump(data, json_file, ensure_ascii=False, indent = 4)
-# nx.write_graphml(H, 'debug.graphml', encoding = 'UTF-8', prettyprint = True)
-
 # IdDict = makeIdDict('2274115')
 # HeadDict = makeHeadDict('2274115')
-# print(HeadDict)
-createJSONTree()
-# print(returnIdFormList(IdDict))
-# print(returnHeadFormList(IdDict, HeadDict))
 
-# print(makeDict('2274115'))
+createJSONTree()
 
 #createGraphML()
 #createJSON()
-# print(yaml.dump(MatchedDict, allow_unicode=True, default_flow_style=False))
 # createGraphMLs(MatchedDict)
 # nx.draw(H)
-# print(returnIdLemmaList(IdDict, '2274115'))
-# print(returnHeadLemmaList(IdDict, HeadDict, '2281055'))
