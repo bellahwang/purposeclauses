@@ -1,0 +1,178 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "13",
+            "form": "δ'",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.114",
+            "id": "δ'_13",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "ἔφατ'",
+                    "lemma": "φημί",
+                    "postag": "v3siie---",
+                    "head": "13",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.113",
+                    "id": "ἔφατ'_2",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.113",
+                            "id": "ὣς_1"
+                        }
+                    ]
+                },
+                {
+                    "wID": "3",
+                    "form": ",",
+                    "lemma": ",",
+                    "postag": "u--------",
+                    "head": "13",
+                    "relation": "AuxX",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.113",
+                    "id": ",_3"
+                },
+                {
+                    "wID": "4",
+                    "form": "αὐτὰρ",
+                    "lemma": "ἀτάρ",
+                    "postag": "c--------",
+                    "head": "13",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.113",
+                    "id": "αὐτὰρ_4"
+                },
+                {
+                    "wID": "7",
+                    "form": "πεπλήγετο",
+                    "lemma": "πλήσσω",
+                    "postag": "v3saim---",
+                    "head": "13",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.113",
+                    "id": "πεπλήγετο_7",
+                    "children": [
+                        {
+                            "wID": "5",
+                            "form": "Ἄρης",
+                            "lemma": "Ἄρης",
+                            "postag": "n-s---mn-",
+                            "head": "7",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.113",
+                            "id": "Ἄρης_5"
+                        },
+                        {
+                            "wID": "8",
+                            "form": "μηρὼ",
+                            "lemma": "μηρός",
+                            "postag": "n-d---ma-",
+                            "head": "7",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.113",
+                            "id": "μηρὼ_8",
+                            "children": [
+                                {
+                                    "wID": "6",
+                                    "form": "θαλερὼ",
+                                    "lemma": "θαλερός",
+                                    "postag": "a-d---ma-",
+                                    "head": "8",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.113",
+                                    "id": "θαλερὼ_6"
+                                }
+                            ]
+                        },
+                        {
+                            "wID": "9",
+                            "form": "χερσὶ",
+                            "lemma": "χείρ",
+                            "postag": "n-p---fd-",
+                            "head": "7",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.114",
+                            "id": "χερσὶ_9",
+                            "children": [
+                                {
+                                    "wID": "10",
+                                    "form": "καταπρηνέσσ'",
+                                    "lemma": "καταπρηνής",
+                                    "postag": "a-p---fd-",
+                                    "head": "9",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.114",
+                                    "id": "καταπρηνέσσ'_10"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wID": "11",
+                    "form": ",",
+                    "lemma": ",",
+                    "postag": "u--------",
+                    "head": "13",
+                    "relation": "AuxX",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.114",
+                    "id": ",_11"
+                },
+                {
+                    "wID": "15",
+                    "form": "ηὔδα",
+                    "lemma": "αὐδάω",
+                    "postag": "v3siia---",
+                    "head": "13",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.114",
+                    "id": "ηὔδα_15",
+                    "children": [
+                        {
+                            "wID": "12",
+                            "form": "ὀλοφυρόμενος",
+                            "lemma": "ὀλοφύρομαι",
+                            "postag": "v-sppemn-",
+                            "head": "15",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.114",
+                            "id": "ὀλοφυρόμενος_12"
+                        },
+                        {
+                            "wID": "14",
+                            "form": "ἔπος",
+                            "lemma": "ἔπος",
+                            "postag": "n-s---na-",
+                            "head": "15",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.114",
+                            "id": "ἔπος_14"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "16",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.114",
+            "id": "·_16"
+        }
+    ]
+}

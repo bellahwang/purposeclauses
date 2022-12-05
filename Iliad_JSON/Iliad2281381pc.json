@@ -1,0 +1,129 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "9",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.199",
+            "id": "·_9"
+        },
+        {
+            "wID": "10",
+            "form": "[0]",
+            "head": "0",
+            "relation": "COORD",
+            "id": "[0]_10",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "δ'",
+                    "lemma": "δέ",
+                    "postag": "g--------",
+                    "head": "10",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.199",
+                    "id": "δ'_2"
+                },
+                {
+                    "wID": "12",
+                    "form": "[1]",
+                    "head": "10",
+                    "relation": "PRED_CO",
+                    "id": "[1]_12",
+                    "children": [
+                        {
+                            "wID": "11",
+                            "form": "[2]",
+                            "head": "12",
+                            "relation": "ADV",
+                            "id": "[2]_11",
+                            "children": [
+                                {
+                                    "wID": "6",
+                                    "form": "δύναται",
+                                    "lemma": "δύναμαι",
+                                    "postag": "v3spie---",
+                                    "head": "11",
+                                    "relation": "ADV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.199",
+                                    "id": "δύναται_6",
+                                    "children": [
+                                        {
+                                            "wID": "1",
+                                            "form": "ὡς",
+                                            "lemma": "ὡς",
+                                            "postag": "d--------",
+                                            "head": "6",
+                                            "relation": "ADV",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.199",
+                                            "id": "ὡς_1"
+                                        },
+                                        {
+                                            "wID": "3",
+                                            "form": "ἐν",
+                                            "lemma": "ἐν",
+                                            "postag": "r--------",
+                                            "head": "6",
+                                            "relation": "AuxP",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.199",
+                                            "id": "ἐν_3",
+                                            "children": [
+                                                {
+                                                    "wID": "4",
+                                                    "form": "ὀνείρῳ",
+                                                    "lemma": "ὄνειρος",
+                                                    "postag": "n-s---md-",
+                                                    "head": "3",
+                                                    "relation": "ADV",
+                                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.199",
+                                                    "id": "ὀνείρῳ_4"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wID": "5",
+                                            "form": "οὐ",
+                                            "lemma": "οὐ",
+                                            "postag": "d--------",
+                                            "head": "6",
+                                            "relation": "AuxZ",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.199",
+                                            "id": "οὐ_5"
+                                        },
+                                        {
+                                            "wID": "8",
+                                            "form": "διώκειν",
+                                            "lemma": "διώκω",
+                                            "postag": "v--pna---",
+                                            "head": "6",
+                                            "relation": "OBJ",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.199",
+                                            "id": "διώκειν_8",
+                                            "children": [
+                                                {
+                                                    "wID": "7",
+                                                    "form": "φεύγοντα",
+                                                    "lemma": "φεύγω",
+                                                    "postag": "v-sppama-",
+                                                    "head": "8",
+                                                    "relation": "OBJ",
+                                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.199",
+                                                    "id": "φεύγοντα_7"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

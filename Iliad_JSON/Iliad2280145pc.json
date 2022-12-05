@@ -1,0 +1,92 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "2",
+            "form": "δέ",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.126",
+            "id": "δέ_2",
+            "children": [
+                {
+                    "wID": "4",
+                    "form": "ἔρυκε",
+                    "lemma": "ἐρύκω",
+                    "postag": "v2spma---",
+                    "head": "2",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.126",
+                    "id": "ἔρυκε_4",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "μὴ",
+                            "lemma": "μή",
+                            "postag": "g--------",
+                            "head": "4",
+                            "relation": "AuxZ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.126",
+                            "id": "μὴ_1"
+                        },
+                        {
+                            "wID": "3",
+                            "form": "μ'",
+                            "lemma": "ἐγώ",
+                            "postag": "p-s---ma-",
+                            "head": "4",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.126",
+                            "id": "μ'_3"
+                        },
+                        {
+                            "wID": "5",
+                            "form": "μάχης",
+                            "lemma": "μάχη",
+                            "postag": "n-s---fg-",
+                            "head": "4",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.126",
+                            "id": "μάχης_5"
+                        },
+                        {
+                            "wID": "6",
+                            "form": "φιλέουσά",
+                            "lemma": "φιλέω",
+                            "postag": "v-sppafn-",
+                            "head": "4",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.126",
+                            "id": "φιλέουσά_6",
+                            "children": [
+                                {
+                                    "wID": "7",
+                                    "form": "περ",
+                                    "lemma": "πέρ",
+                                    "postag": "g--------",
+                                    "head": "6",
+                                    "relation": "AuxZ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.126",
+                                    "id": "περ_7"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.126",
+            "id": "·_8"
+        }
+    ]
+}

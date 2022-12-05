@@ -1,0 +1,82 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "2",
+            "form": "ἴομεν",
+            "lemma": "εἶμι",
+            "postag": "v1ppsa---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:12.216",
+            "id": "ἴομεν_2",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "μὴ",
+                    "lemma": "μή",
+                    "postag": "g--------",
+                    "head": "2",
+                    "relation": "AuxZ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:12.216",
+                    "id": "μὴ_1"
+                },
+                {
+                    "wID": "4",
+                    "form": "μαχησόμενοι",
+                    "lemma": "μάχομαι",
+                    "postag": "v-pfpmmn-",
+                    "head": "2",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:12.216",
+                    "id": "μαχησόμενοι_4",
+                    "children": [
+                        {
+                            "wID": "3",
+                            "form": "Δαναοῖσι",
+                            "lemma": "Δαναοί",
+                            "postag": "n-p---md-",
+                            "head": "4",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:12.216",
+                            "id": "Δαναοῖσι_3"
+                        },
+                        {
+                            "wID": "5",
+                            "form": "περὶ",
+                            "lemma": "περί",
+                            "postag": "r--------",
+                            "head": "4",
+                            "relation": "AuxP",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:12.216",
+                            "id": "περὶ_5",
+                            "children": [
+                                {
+                                    "wID": "6",
+                                    "form": "νηῶν",
+                                    "lemma": "ναῦς",
+                                    "postag": "n-p---fg-",
+                                    "head": "5",
+                                    "relation": "OBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:12.216",
+                                    "id": "νηῶν_6"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:12.216",
+            "id": "._7"
+        }
+    ]
+}

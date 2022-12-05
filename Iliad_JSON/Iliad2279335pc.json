@@ -1,0 +1,92 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "3",
+            "form": "ὄτρυνε",
+            "lemma": "ὀτρύνω",
+            "postag": "v3siia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:16.210",
+            "id": "ὄτρυνε_3",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "εἰπὼν",
+                    "lemma": "εἶπον",
+                    "postag": "v-sapamn-",
+                    "head": "3",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:16.210",
+                    "id": "εἰπὼν_2",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:16.210",
+                            "id": "ὣς_1"
+                        }
+                    ]
+                },
+                {
+                    "wID": "5",
+                    "form": "καὶ",
+                    "lemma": "καί",
+                    "postag": "c--------",
+                    "head": "3",
+                    "relation": "COORD",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:16.210",
+                    "id": "καὶ_5",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "μένος",
+                            "lemma": "μένος",
+                            "postag": "n-s---na-",
+                            "head": "5",
+                            "relation": "OBJ_CO",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:16.210",
+                            "id": "μένος_4"
+                        },
+                        {
+                            "wID": "6",
+                            "form": "θυμὸν",
+                            "lemma": "θυμός",
+                            "postag": "n-s---ma-",
+                            "head": "5",
+                            "relation": "OBJ_CO",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:16.210",
+                            "id": "θυμὸν_6"
+                        },
+                        {
+                            "wID": "7",
+                            "form": "ἑκάστου",
+                            "lemma": "ἕκαστος",
+                            "postag": "a-s---mg-",
+                            "head": "5",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:16.210",
+                            "id": "ἑκάστου_7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:16.210",
+            "id": "._8"
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "9",
+            "form": "δ'",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.85",
+            "id": "δ'_9",
+            "children": [
+                {
+                    "wID": "5",
+                    "form": "ἐξῆρχε",
+                    "lemma": "ἐξάρχω",
+                    "postag": "v3siia---",
+                    "head": "9",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:2.84",
+                    "id": "ἐξῆρχε_5",
+                    "children": [
+                        {
+                            "wID": "2",
+                            "form": "ἄρα",
+                            "lemma": "ἄρα",
+                            "postag": "g--------",
+                            "head": "5",
+                            "relation": "AuxY",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.84",
+                            "id": "ἄρα_2"
+                        },
+                        {
+                            "wID": "3",
+                            "form": "φωνήσας",
+                            "lemma": "φωνέω",
+                            "postag": "v-sapamn-",
+                            "head": "5",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.84",
+                            "id": "φωνήσας_3",
+                            "children": [
+                                {
+                                    "wID": "1",
+                                    "form": "ὣς",
+                                    "lemma": "ὡς",
+                                    "postag": "d--------",
+                                    "head": "3",
+                                    "relation": "ADV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:2.84",
+                                    "id": "ὣς_1"
+                                }
+                            ]
+                        },
+                        {
+                            "wID": "4",
+                            "form": "βουλῆς",
+                            "lemma": "βουλή",
+                            "postag": "n-s---fg-",
+                            "head": "5",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.84",
+                            "id": "βουλῆς_4"
+                        },
+                        {
+                            "wID": "6",
+                            "form": "νέεσθαι",
+                            "lemma": "νέομαι",
+                            "postag": "v--pne---",
+                            "head": "5",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.84",
+                            "id": "νέεσθαι_6"
+                        }
+                    ]
+                },
+                {
+                    "wID": "7",
+                    "form": ",",
+                    "lemma": ",",
+                    "postag": "u--------",
+                    "head": "9",
+                    "relation": "AuxX",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:2.84",
+                    "id": ",_7"
+                },
+                {
+                    "wID": "12",
+                    "form": "τε",
+                    "lemma": "τε",
+                    "postag": "g--------",
+                    "head": "9",
+                    "relation": "COORD",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:2.85",
+                    "id": "τε_12",
+                    "children": [
+                        {
+                            "wID": "10",
+                            "form": "ἐπανέστησαν",
+                            "lemma": "ἐπανίστημι",
+                            "postag": "v3paia---",
+                            "head": "12",
+                            "relation": "PRED_CO",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.85",
+                            "id": "ἐπανέστησαν_10"
+                        },
+                        {
+                            "wID": "11",
+                            "form": "πείθοντό",
+                            "lemma": "πείθω",
+                            "postag": "v3piie---",
+                            "head": "12",
+                            "relation": "PRED_CO",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.85",
+                            "id": "πείθοντό_11",
+                            "children": [
+                                {
+                                    "wID": "13",
+                                    "form": "ποιμένι",
+                                    "lemma": "ποιμήν",
+                                    "postag": "n-s---md-",
+                                    "head": "11",
+                                    "relation": "OBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:2.85",
+                                    "id": "ποιμένι_13",
+                                    "children": [
+                                        {
+                                            "wID": "14",
+                                            "form": "λαῶν",
+                                            "lemma": "λαός",
+                                            "postag": "n-p---mg-",
+                                            "head": "13",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.85",
+                                            "id": "λαῶν_14"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "wID": "16",
+                            "form": "βασιλῆες",
+                            "lemma": "βασιλεύς",
+                            "postag": "n-p---mn-",
+                            "head": "12",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.86",
+                            "id": "βασιλῆες_16",
+                            "children": [
+                                {
+                                    "wID": "8",
+                                    "form": "οἳ",
+                                    "lemma": "ὁ",
+                                    "postag": "p-p---mn-",
+                                    "head": "16",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:2.85",
+                                    "id": "οἳ_8"
+                                },
+                                {
+                                    "wID": "15",
+                                    "form": "σκηπτοῦχοι",
+                                    "lemma": "σκηπτοῦχος",
+                                    "postag": "a-p---mn-",
+                                    "head": "16",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:2.86",
+                                    "id": "σκηπτοῦχοι_15"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "17",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.86",
+            "id": "·_17"
+        }
+    ]
+}

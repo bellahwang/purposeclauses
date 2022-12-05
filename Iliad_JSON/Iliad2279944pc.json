@@ -1,0 +1,82 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "4",
+            "form": "καλέσσατο",
+            "lemma": "καλέω",
+            "postag": "v3saim---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:17.507",
+            "id": "καλέσσατο_4",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "εἰπὼν",
+                    "lemma": "εἶπον",
+                    "postag": "v-sapamn-",
+                    "head": "4",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:17.507",
+                    "id": "εἰπὼν_2",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:17.507",
+                            "id": "ὣς_1"
+                        }
+                    ]
+                },
+                {
+                    "wID": "5",
+                    "form": "καὶ",
+                    "lemma": "καί",
+                    "postag": "c--------",
+                    "head": "4",
+                    "relation": "COORD",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:17.507",
+                    "id": "καὶ_5",
+                    "children": [
+                        {
+                            "wID": "3",
+                            "form": "Αἴαντε",
+                            "lemma": "Αἴας",
+                            "postag": "n-d---ma-",
+                            "head": "5",
+                            "relation": "OBJ_CO",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:17.507",
+                            "id": "Αἴαντε_3"
+                        },
+                        {
+                            "wID": "6",
+                            "form": "Μενέλαον",
+                            "lemma": "Μενέλαος",
+                            "postag": "n-s---ma-",
+                            "head": "5",
+                            "relation": "OBJ_CO",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:17.507",
+                            "id": "Μενέλαον_6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:17.507",
+            "id": "·_7"
+        }
+    ]
+}

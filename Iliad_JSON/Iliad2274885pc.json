@@ -1,0 +1,101 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "8",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.28",
+            "id": "·_8"
+        },
+        {
+            "wID": "9",
+            "form": "[0]",
+            "head": "0",
+            "relation": "COORD",
+            "id": "[0]_9",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "ἐχάρη",
+                    "lemma": "χαίρω",
+                    "postag": "v3saip---",
+                    "head": "9",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.27",
+                    "id": "ἐχάρη_2",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.27",
+                            "id": "ὣς_1"
+                        },
+                        {
+                            "wID": "3",
+                            "form": "Μενέλαος",
+                            "lemma": "Μενέλαος",
+                            "postag": "n-s---mn-",
+                            "head": "2",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.27",
+                            "id": "Μενέλαος_3"
+                        },
+                        {
+                            "wID": "7",
+                            "form": "ἰδών",
+                            "lemma": "εἶδον",
+                            "postag": "v-sapamn-",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.28",
+                            "id": "ἰδών_7",
+                            "children": [
+                                {
+                                    "wID": "4",
+                                    "form": "Ἀλέξανδρον",
+                                    "lemma": "Ἀλέξανδρος",
+                                    "postag": "n-s---ma-",
+                                    "head": "7",
+                                    "relation": "OBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.27",
+                                    "id": "Ἀλέξανδρον_4",
+                                    "children": [
+                                        {
+                                            "wID": "5",
+                                            "form": "θεοειδέα",
+                                            "lemma": "θεοειδής",
+                                            "postag": "a-s---ma-",
+                                            "head": "4",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.27",
+                                            "id": "θεοειδέα_5"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wID": "6",
+                                    "form": "ὀφθαλμοῖσιν",
+                                    "lemma": "ὀφθαλμός",
+                                    "postag": "n-p---md-",
+                                    "head": "7",
+                                    "relation": "ADV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.28",
+                                    "id": "ὀφθαλμοῖσιν_6"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

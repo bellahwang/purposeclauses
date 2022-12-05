@@ -1,0 +1,84 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "3",
+            "form": "ὄτρυνε",
+            "lemma": "ὀτρύνω",
+            "postag": "v3siia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.186",
+            "id": "ὄτρυνε_3",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "εἰπὼν",
+                    "lemma": "εἶπον",
+                    "postag": "v-sapamn-",
+                    "head": "3",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.186",
+                    "id": "εἰπὼν_2",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.186",
+                            "id": "ὣς_1"
+                        }
+                    ]
+                },
+                {
+                    "wID": "6",
+                    "form": "Ἀθήνην",
+                    "lemma": "Ἀθήνη",
+                    "postag": "n-s---fa-",
+                    "head": "3",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.186",
+                    "id": "Ἀθήνην_6",
+                    "children": [
+                        {
+                            "wID": "5",
+                            "form": "μεμαυῖαν",
+                            "lemma": "μέμαα",
+                            "postag": "v-srpafa-",
+                            "head": "6",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.186",
+                            "id": "μεμαυῖαν_5",
+                            "children": [
+                                {
+                                    "wID": "4",
+                                    "form": "πάρος",
+                                    "lemma": "πάρος",
+                                    "postag": "d--------",
+                                    "head": "5",
+                                    "relation": "ADV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.186",
+                                    "id": "πάρος_4"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.186",
+            "id": "·_7"
+        }
+    ]
+}

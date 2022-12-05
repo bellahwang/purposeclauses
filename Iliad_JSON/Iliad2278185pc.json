@@ -1,0 +1,80 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "ὦρσεν",
+            "lemma": "ὄρνυμι",
+            "postag": "v3saia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:13.125",
+            "id": "ὦρσεν_5",
+            "children": [
+                {
+                    "wID": "3",
+                    "form": "κελευτιόων",
+                    "lemma": "κελευτιάω",
+                    "postag": "v-sppamn-",
+                    "head": "5",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:13.125",
+                    "id": "κελευτιόων_3",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὥς",
+                            "lemma": "ὡς",
+                            "postag": "c--------",
+                            "head": "3",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:13.125",
+                            "id": "ὥς_1"
+                        },
+                        {
+                            "wID": "2",
+                            "form": "ῥα",
+                            "lemma": "ἄρα",
+                            "postag": "g--------",
+                            "head": "3",
+                            "relation": "AuxY",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:13.125",
+                            "id": "ῥα_2"
+                        }
+                    ]
+                },
+                {
+                    "wID": "4",
+                    "form": "γαιήοχος",
+                    "lemma": "γαιήοχος",
+                    "postag": "a-s---mn-",
+                    "head": "5",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:13.125",
+                    "id": "γαιήοχος_4"
+                },
+                {
+                    "wID": "6",
+                    "form": "Ἀχαιούς",
+                    "lemma": "Ἀχαιός",
+                    "postag": "a-p---ma-",
+                    "head": "5",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:13.125",
+                    "id": "Ἀχαιούς_6"
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:13.125",
+            "id": "._7"
+        }
+    ]
+}

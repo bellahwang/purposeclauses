@@ -1,0 +1,92 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "4",
+            "form": "μάρναντο",
+            "lemma": "μάρναμαι",
+            "postag": "v3piie---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.596",
+            "id": "μάρναντο_4",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὣς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "4",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.596",
+                    "id": "ὣς_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "οἳ",
+                    "lemma": "ὁ",
+                    "postag": "p-p---mn-",
+                    "head": "4",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.596",
+                    "id": "οἳ_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "μὲν",
+                    "lemma": "μέν",
+                    "postag": "g--------",
+                    "head": "4",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.596",
+                    "id": "μὲν_3"
+                },
+                {
+                    "wID": "5",
+                    "form": "δέμας",
+                    "lemma": "δέμας",
+                    "postag": "n-s---na-",
+                    "head": "4",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.596",
+                    "id": "δέμας_5",
+                    "children": [
+                        {
+                            "wID": "6",
+                            "form": "πυρὸς",
+                            "lemma": "πῦρ",
+                            "postag": "n-s---ng-",
+                            "head": "5",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.596",
+                            "id": "πυρὸς_6",
+                            "children": [
+                                {
+                                    "wID": "7",
+                                    "form": "αἰθομένοιο",
+                                    "lemma": "αἴθω",
+                                    "postag": "v-sppeng-",
+                                    "head": "6",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.596",
+                                    "id": "αἰθομένοιο_7"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.596",
+            "id": "·_8"
+        }
+    ]
+}

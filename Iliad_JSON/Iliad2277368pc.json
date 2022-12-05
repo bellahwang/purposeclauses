@@ -1,0 +1,60 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "1",
+            "form": "δίειπέ",
+            "lemma": "διεῖπον",
+            "postag": "v2sama---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.425",
+            "id": "δίειπέ_1",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "μοι",
+                    "lemma": "ἐγώ",
+                    "postag": "p-s---md-",
+                    "head": "1",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.425",
+                    "id": "μοι_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "ὄφρα",
+                    "lemma": "ὄφρα",
+                    "postag": "c--------",
+                    "head": "1",
+                    "relation": "AuxC",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.425",
+                    "id": "ὄφρα_3",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "δαείω",
+                            "lemma": "δάω",
+                            "postag": "v1sasa---",
+                            "head": "3",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.425",
+                            "id": "δαείω_4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "5",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.425",
+            "id": "._5"
+        }
+    ]
+}

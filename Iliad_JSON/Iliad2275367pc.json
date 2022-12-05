@@ -1,0 +1,112 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "κίνυντο",
+            "lemma": "κίνυμαι",
+            "postag": "v3piie---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.427",
+            "id": "κίνυντο_5",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὣς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "5",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.427",
+                    "id": "ὣς_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "τότ'",
+                    "lemma": "τότε",
+                    "postag": "d--------",
+                    "head": "5",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.427",
+                    "id": "τότ'_2"
+                },
+                {
+                    "wID": "6",
+                    "form": "φάλαγγες",
+                    "lemma": "φάλαγξ",
+                    "postag": "n-p---fn-",
+                    "head": "5",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.427",
+                    "id": "φάλαγγες_6",
+                    "children": [
+                        {
+                            "wID": "3",
+                            "form": "ἐπασσύτεραι",
+                            "lemma": "ἐπασσύτερος",
+                            "postag": "a-p---fn-",
+                            "head": "6",
+                            "relation": "ATV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.427",
+                            "id": "ἐπασσύτεραι_3"
+                        },
+                        {
+                            "wID": "4",
+                            "form": "Δαναῶν",
+                            "lemma": "Δανάη",
+                            "postag": "n-p---fg-",
+                            "head": "6",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.427",
+                            "id": "Δαναῶν_4"
+                        }
+                    ]
+                },
+                {
+                    "wID": "7",
+                    "form": "νωλεμέως",
+                    "lemma": "νωλεμές",
+                    "postag": "d--------",
+                    "head": "5",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.428",
+                    "id": "νωλεμέως_7"
+                },
+                {
+                    "wID": "8",
+                    "form": "πόλεμον",
+                    "lemma": "πόλεμος",
+                    "postag": "n-s---ma-",
+                    "head": "5",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.428",
+                    "id": "πόλεμον_8",
+                    "children": [
+                        {
+                            "wID": "9",
+                            "form": "δέ",
+                            "lemma": "δέ",
+                            "postag": "g--------",
+                            "head": "8",
+                            "relation": "AuxZ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.428",
+                            "id": "δέ_9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "10",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.428",
+            "id": "·_10"
+        }
+    ]
+}

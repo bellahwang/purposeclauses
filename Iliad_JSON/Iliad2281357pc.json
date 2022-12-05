@@ -1,0 +1,123 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "10",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.166",
+            "id": "·_10"
+        },
+        {
+            "wID": "11",
+            "form": "[0]",
+            "head": "0",
+            "relation": "COORD",
+            "id": "[0]_11",
+            "children": [
+                {
+                    "wID": "7",
+                    "form": "δινηθήτην",
+                    "lemma": "δινεύω",
+                    "postag": "v3daip---",
+                    "head": "11",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.165",
+                    "id": "δινηθήτην_7",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "7",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.165",
+                            "id": "ὣς_1"
+                        },
+                        {
+                            "wID": "2",
+                            "form": "τὼ",
+                            "lemma": "ὁ",
+                            "postag": "p-d---mn-",
+                            "head": "7",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.165",
+                            "id": "τὼ_2"
+                        },
+                        {
+                            "wID": "3",
+                            "form": "τρὶς",
+                            "lemma": "τρίς",
+                            "postag": "d--------",
+                            "head": "7",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.165",
+                            "id": "τρὶς_3"
+                        },
+                        {
+                            "wID": "6",
+                            "form": "πέρι",
+                            "lemma": "περί",
+                            "postag": "r--------",
+                            "head": "7",
+                            "relation": "AuxP",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.165",
+                            "id": "πέρι_6",
+                            "children": [
+                                {
+                                    "wID": "5",
+                                    "form": "πόλιν",
+                                    "lemma": "πόλις",
+                                    "postag": "n-s---fa-",
+                                    "head": "6",
+                                    "relation": "ADV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.165",
+                                    "id": "πόλιν_5",
+                                    "children": [
+                                        {
+                                            "wID": "4",
+                                            "form": "Πριάμοιο",
+                                            "lemma": "Πρίαμος",
+                                            "postag": "n-s---mg-",
+                                            "head": "5",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.165",
+                                            "id": "Πριάμοιο_4"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "wID": "9",
+                            "form": "πόδεσσι",
+                            "lemma": "πούς",
+                            "postag": "n-p---md-",
+                            "head": "7",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.166",
+                            "id": "πόδεσσι_9",
+                            "children": [
+                                {
+                                    "wID": "8",
+                                    "form": "καρπαλίμοισι",
+                                    "lemma": "καρπάλιμος",
+                                    "postag": "a-p---md-",
+                                    "head": "9",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.166",
+                                    "id": "καρπαλίμοισι_8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

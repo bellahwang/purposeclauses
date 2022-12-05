@@ -1,0 +1,104 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "καὶ",
+            "lemma": "καί",
+            "postag": "c--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.380",
+            "id": "καὶ_5",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "οἳ",
+                    "lemma": "ὅς",
+                    "postag": "p-p---mn-",
+                    "head": "5",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.380",
+                    "id": "οἳ_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "δ'",
+                    "lemma": "δέ",
+                    "postag": "g--------",
+                    "head": "5",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.380",
+                    "id": "δ'_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "ἔθελον",
+                    "lemma": "ἐθέλω",
+                    "postag": "v3piia---",
+                    "head": "5",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.380",
+                    "id": "ἔθελον_3",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "δόμεναι",
+                            "lemma": "δίδωμι",
+                            "postag": "v--ana---",
+                            "head": "3",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.380",
+                            "id": "δόμεναι_4"
+                        }
+                    ]
+                },
+                {
+                    "wID": "6",
+                    "form": "ἐπῄνεον",
+                    "lemma": "ἐπαινέω",
+                    "postag": "v3piia---",
+                    "head": "5",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.380",
+                    "id": "ἐπῄνεον_6",
+                    "children": [
+                        {
+                            "wID": "8",
+                            "form": "ἐκέλευον",
+                            "lemma": "κελεύω",
+                            "postag": "v3piia---",
+                            "head": "6",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.380",
+                            "id": "ἐκέλευον_8",
+                            "children": [
+                                {
+                                    "wID": "7",
+                                    "form": "ὡς",
+                                    "lemma": "ὡς",
+                                    "postag": "c--------",
+                                    "head": "8",
+                                    "relation": "ADV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.380",
+                                    "id": "ὡς_7"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "9",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.380",
+            "id": "·_9"
+        }
+    ]
+}

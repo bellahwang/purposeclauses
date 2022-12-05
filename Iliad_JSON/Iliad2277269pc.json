@@ -1,0 +1,84 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "6",
+            "form": "ἐδύτην",
+            "lemma": "δύω",
+            "postag": "v3daia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.254",
+            "id": "ἐδύτην_6",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "εἰπόνθ'",
+                    "lemma": "εἶπον",
+                    "postag": "v-dapamn-",
+                    "head": "6",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.254",
+                    "id": "εἰπόνθ'_2",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.254",
+                            "id": "ὣς_1"
+                        }
+                    ]
+                },
+                {
+                    "wID": "4",
+                    "form": "ἔνι",
+                    "lemma": "ἐν",
+                    "postag": "r--------",
+                    "head": "6",
+                    "relation": "AuxP",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.254",
+                    "id": "ἔνι_4",
+                    "children": [
+                        {
+                            "wID": "3",
+                            "form": "ὅπλοισιν",
+                            "lemma": "ὅπλον",
+                            "postag": "n-p---nd-",
+                            "head": "4",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.254",
+                            "id": "ὅπλοισιν_3",
+                            "children": [
+                                {
+                                    "wID": "5",
+                                    "form": "δεινοῖσιν",
+                                    "lemma": "δεινός",
+                                    "postag": "a-p---nd-",
+                                    "head": "3",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.254",
+                                    "id": "δεινοῖσιν_5"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.254",
+            "id": "._7"
+        }
+    ]
+}

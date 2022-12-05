@@ -1,0 +1,114 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "7",
+            "form": "δ'",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.496",
+            "id": "δ'_7",
+            "children": [
+                {
+                    "wID": "4",
+                    "form": "φύγεν",
+                    "lemma": "φεύγω",
+                    "postag": "v3saia---",
+                    "head": "7",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.496",
+                    "id": "φύγεν_4",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "4",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.496",
+                            "id": "ὣς_1"
+                        },
+                        {
+                            "wID": "2",
+                            "form": "ἣ",
+                            "lemma": "ὁ",
+                            "postag": "p-s---fn-",
+                            "head": "4",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.496",
+                            "id": "ἣ_2",
+                            "children": [
+                                {
+                                    "wID": "3",
+                                    "form": "δακρυόεσσα",
+                                    "lemma": "δακρυόεις",
+                                    "postag": "a-s---fn-",
+                                    "head": "2",
+                                    "relation": "ATV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.496",
+                                    "id": "δακρυόεσσα_3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wID": "5",
+                    "form": ",",
+                    "lemma": ",",
+                    "postag": "u--------",
+                    "head": "7",
+                    "relation": "AuxX",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.496",
+                    "id": ",_5"
+                },
+                {
+                    "wID": "6",
+                    "form": "λίπε",
+                    "lemma": "λείπω",
+                    "postag": "v3saia---",
+                    "head": "7",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.496",
+                    "id": "λίπε_6",
+                    "children": [
+                        {
+                            "wID": "8",
+                            "form": "αὐτόθι",
+                            "lemma": "αὐτόθι",
+                            "postag": "d--------",
+                            "head": "6",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.496",
+                            "id": "αὐτόθι_8"
+                        },
+                        {
+                            "wID": "9",
+                            "form": "τόξα",
+                            "lemma": "τόξον",
+                            "postag": "n-p---na-",
+                            "head": "6",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.496",
+                            "id": "τόξα_9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "10",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.496",
+            "id": "._10"
+        }
+    ]
+}

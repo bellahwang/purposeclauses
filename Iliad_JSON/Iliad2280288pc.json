@@ -1,0 +1,90 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "7",
+            "form": "ἀγόρευον",
+            "lemma": "ἀγορεύω",
+            "postag": "v3piia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.368",
+            "id": "ἀγόρευον_7",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὣς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "7",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.368",
+                    "id": "ὣς_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "οἳ",
+                    "lemma": "ὁ",
+                    "postag": "p-p---mn-",
+                    "head": "7",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.368",
+                    "id": "οἳ_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "μὲν",
+                    "lemma": "μέν",
+                    "postag": "g--------",
+                    "head": "7",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.368",
+                    "id": "μὲν_3"
+                },
+                {
+                    "wID": "4",
+                    "form": "τοιαῦτα",
+                    "lemma": "τοιοῦτος",
+                    "postag": "a-p---na-",
+                    "head": "7",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.368",
+                    "id": "τοιαῦτα_4"
+                },
+                {
+                    "wID": "5",
+                    "form": "πρὸς",
+                    "lemma": "πρός",
+                    "postag": "r--------",
+                    "head": "7",
+                    "relation": "AuxP",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.368",
+                    "id": "πρὸς_5",
+                    "children": [
+                        {
+                            "wID": "6",
+                            "form": "ἀλλήλους",
+                            "lemma": "ἀλλήλων",
+                            "postag": "a-p---ma-",
+                            "head": "5",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.368",
+                            "id": "ἀλλήλους_6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.368",
+            "id": "·_8"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "6",
+            "form": "ἀγόρευε",
+            "lemma": "ἀγορεύω",
+            "postag": "v2spma---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.261",
+            "id": "ἀγόρευε_6",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "Ἕκτορ",
+                    "lemma": "Ἕκτωρ",
+                    "postag": "n-s---mv-",
+                    "head": "6",
+                    "relation": "ExD",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.261",
+                    "id": "Ἕκτορ_1",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "ἄλαστε",
+                            "lemma": "ἄλαστος",
+                            "postag": "a-s---mv-",
+                            "head": "1",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.261",
+                            "id": "ἄλαστε_4"
+                        }
+                    ]
+                },
+                {
+                    "wID": "2",
+                    "form": "μή",
+                    "lemma": "μή",
+                    "postag": "d--------",
+                    "head": "6",
+                    "relation": "AuxZ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.261",
+                    "id": "μή_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "μοι",
+                    "lemma": "ἐγώ",
+                    "postag": "p-s---md-",
+                    "head": "6",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.261",
+                    "id": "μοι_3"
+                },
+                {
+                    "wID": "5",
+                    "form": "συνημοσύνας",
+                    "lemma": "συνημοσύνη",
+                    "postag": "n-p---fa-",
+                    "head": "6",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.261",
+                    "id": "συνημοσύνας_5"
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.261",
+            "id": "·_7"
+        }
+    ]
+}

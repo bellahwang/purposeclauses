@@ -1,0 +1,106 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "1",
+            "form": "δείδια",
+            "lemma": "δείδω",
+            "postag": "v1sria---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.536",
+            "id": "δείδια_1",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "γὰρ",
+                    "lemma": "γάρ",
+                    "postag": "g--------",
+                    "head": "1",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.536",
+                    "id": "γὰρ_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "μὴ",
+                    "lemma": "μή",
+                    "postag": "c--------",
+                    "head": "1",
+                    "relation": "AuxC",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.536",
+                    "id": "μὴ_3",
+                    "children": [
+                        {
+                            "wID": "8",
+                            "form": "ἅληται",
+                            "lemma": "ἅλλομαι",
+                            "postag": "v3sasm---",
+                            "head": "3",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.536",
+                            "id": "ἅληται_8",
+                            "children": [
+                                {
+                                    "wID": "5",
+                                    "form": "ἀνὴρ",
+                                    "lemma": "ἀνήρ",
+                                    "postag": "n-s---mn-",
+                                    "head": "8",
+                                    "relation": "SBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.536",
+                                    "id": "ἀνὴρ_5",
+                                    "children": [
+                                        {
+                                            "wID": "4",
+                                            "form": "οὖλος",
+                                            "lemma": "οὖλος",
+                                            "postag": "a-s---mn-",
+                                            "head": "5",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.536",
+                                            "id": "οὖλος_4"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wID": "6",
+                                    "form": "ἐς",
+                                    "lemma": "εἰς",
+                                    "postag": "r--------",
+                                    "head": "8",
+                                    "relation": "AuxP",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.536",
+                                    "id": "ἐς_6",
+                                    "children": [
+                                        {
+                                            "wID": "7",
+                                            "form": "τεῖχος",
+                                            "lemma": "τεῖχος",
+                                            "postag": "n-s---na-",
+                                            "head": "6",
+                                            "relation": "OBJ",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.536",
+                                            "id": "τεῖχος_7"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "9",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.536",
+            "id": "._9"
+        }
+    ]
+}

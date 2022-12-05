@@ -1,0 +1,102 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "προσαυδήτην",
+            "lemma": "προσαυδάω",
+            "postag": "v3diia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.136",
+            "id": "προσαυδήτην_5",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὣς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "5",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.136",
+                    "id": "ὣς_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "τώ",
+                    "lemma": "ὁ",
+                    "postag": "p-d---mn-",
+                    "head": "5",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.136",
+                    "id": "τώ_2",
+                    "children": [
+                        {
+                            "wID": "3",
+                            "form": "γε",
+                            "lemma": "γε",
+                            "postag": "g--------",
+                            "head": "2",
+                            "relation": "AuxZ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.136",
+                            "id": "γε_3"
+                        }
+                    ]
+                },
+                {
+                    "wID": "4",
+                    "form": "κλαίοντε",
+                    "lemma": "κλαίω",
+                    "postag": "v-dppamn-",
+                    "head": "5",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.136",
+                    "id": "κλαίοντε_4"
+                },
+                {
+                    "wID": "6",
+                    "form": "βασιλῆα",
+                    "lemma": "βασιλεύς",
+                    "postag": "n-s---ma-",
+                    "head": "5",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.136",
+                    "id": "βασιλῆα_6"
+                },
+                {
+                    "wID": "8",
+                    "form": "ἐπέεσσιν",
+                    "lemma": "ἔπος",
+                    "postag": "n-p---nd-",
+                    "head": "5",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.137",
+                    "id": "ἐπέεσσιν_8",
+                    "children": [
+                        {
+                            "wID": "7",
+                            "form": "μειλιχίοις",
+                            "lemma": "μειλίχιος",
+                            "postag": "a-p---nd-",
+                            "head": "8",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.137",
+                            "id": "μειλιχίοις_7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "9",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.137",
+            "id": "·_9"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "2",
+            "form": "δ'",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.339",
+            "id": "δ'_2",
+            "children": [
+                {
+                    "wID": "7",
+                    "form": "ἔδυνεν",
+                    "lemma": "δύω",
+                    "postag": "v3siia---",
+                    "head": "2",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.339",
+                    "id": "ἔδυνεν_7",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "7",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.339",
+                            "id": "ὣς_1"
+                        },
+                        {
+                            "wID": "3",
+                            "form": "αὔτως",
+                            "lemma": "αὔτως",
+                            "postag": "d--------",
+                            "head": "7",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.339",
+                            "id": "αὔτως_3"
+                        },
+                        {
+                            "wID": "4",
+                            "form": "Μενέλαος",
+                            "lemma": "Μενέλαος",
+                            "postag": "n-s---mn-",
+                            "head": "7",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.339",
+                            "id": "Μενέλαος_4",
+                            "children": [
+                                {
+                                    "wID": "5",
+                                    "form": "ἀρήϊος",
+                                    "lemma": "ἄρειος",
+                                    "postag": "a-s---mn-",
+                                    "head": "4",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.339",
+                                    "id": "ἀρήϊος_5"
+                                }
+                            ]
+                        },
+                        {
+                            "wID": "6",
+                            "form": "ἔντε'",
+                            "lemma": "ἔντεα",
+                            "postag": "n-p---na-",
+                            "head": "7",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.339",
+                            "id": "ἔντε'_6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.339",
+            "id": "._8"
+        }
+    ]
+}

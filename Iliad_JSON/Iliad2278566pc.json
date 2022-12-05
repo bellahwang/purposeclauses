@@ -1,0 +1,94 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "1",
+            "form": "φράζεο",
+            "lemma": "φράζω",
+            "postag": "v2spme---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:14.3",
+            "id": "φράζεο_1",
+            "children": [
+                {
+                    "wID": "3",
+                    "form": "Μαχᾶον",
+                    "lemma": "Μαχάων",
+                    "postag": "n-s---mv-",
+                    "head": "1",
+                    "relation": "ExD",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:14.3",
+                    "id": "Μαχᾶον_3",
+                    "children": [
+                        {
+                            "wID": "2",
+                            "form": "δῖε",
+                            "lemma": "δῖος",
+                            "postag": "a-s---mv-",
+                            "head": "3",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:14.3",
+                            "id": "δῖε_2"
+                        }
+                    ]
+                },
+                {
+                    "wID": "5",
+                    "form": "ἔσται",
+                    "lemma": "εἰμί",
+                    "postag": "v3sfim---",
+                    "head": "1",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:14.3",
+                    "id": "ἔσται_5",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "ὅπως",
+                            "lemma": "ὅπως",
+                            "postag": "d--------",
+                            "head": "5",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:14.3",
+                            "id": "ὅπως_4"
+                        },
+                        {
+                            "wID": "7",
+                            "form": "ἔργα",
+                            "lemma": "ἔργον",
+                            "postag": "n-p---nn-",
+                            "head": "5",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:14.3",
+                            "id": "ἔργα_7",
+                            "children": [
+                                {
+                                    "wID": "6",
+                                    "form": "τάδε",
+                                    "lemma": "ὅδε",
+                                    "postag": "p-p---nn-",
+                                    "head": "7",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:14.3",
+                                    "id": "τάδε_6"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:14.3",
+            "id": "·_8"
+        }
+    ]
+}

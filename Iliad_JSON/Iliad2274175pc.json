@@ -1,0 +1,169 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "14",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:1.136",
+            "id": "·_14"
+        },
+        {
+            "wID": "15",
+            "form": "[0]",
+            "head": "0",
+            "relation": "PRED",
+            "id": "[0]_15",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ἀλλ'",
+                    "lemma": "ἀλλά",
+                    "postag": "d--------",
+                    "head": "15",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:1.135",
+                    "id": "ἀλλ'_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "εἰ",
+                    "lemma": "εἰ",
+                    "postag": "c--------",
+                    "head": "15",
+                    "relation": "AuxC",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:1.135",
+                    "id": "εἰ_2",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "δώσουσι",
+                            "lemma": "δίδωμι",
+                            "postag": "v3pfia---",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:1.135",
+                            "id": "δώσουσι_4",
+                            "children": [
+                                {
+                                    "wID": "3",
+                                    "form": "μὲν",
+                                    "lemma": "μέν",
+                                    "postag": "g--------",
+                                    "head": "4",
+                                    "relation": "AuxY",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:1.135",
+                                    "id": "μὲν_3"
+                                },
+                                {
+                                    "wID": "5",
+                                    "form": "γέρας",
+                                    "lemma": "γέρας",
+                                    "postag": "n-s---na-",
+                                    "head": "4",
+                                    "relation": "OBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:1.135",
+                                    "id": "γέρας_5"
+                                },
+                                {
+                                    "wID": "7",
+                                    "form": "Ἀχαιοὶ",
+                                    "lemma": "Ἀχαιός",
+                                    "postag": "a-p---mn-",
+                                    "head": "4",
+                                    "relation": "SBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:1.135",
+                                    "id": "Ἀχαιοὶ_7",
+                                    "children": [
+                                        {
+                                            "wID": "6",
+                                            "form": "μεγάθυμοι",
+                                            "lemma": "μεγάθυμος",
+                                            "postag": "a-p---mn-",
+                                            "head": "7",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:1.135",
+                                            "id": "μεγάθυμοι_6"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wID": "8",
+                                    "form": "ἄρσαντες",
+                                    "lemma": "ἀραρίσκω",
+                                    "postag": "v-papamn-",
+                                    "head": "4",
+                                    "relation": "ADV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:1.136",
+                                    "id": "ἄρσαντες_8",
+                                    "children": [
+                                        {
+                                            "wID": "9",
+                                            "form": "κατὰ",
+                                            "lemma": "κατά",
+                                            "postag": "r--------",
+                                            "head": "8",
+                                            "relation": "AuxP",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:1.136",
+                                            "id": "κατὰ_9",
+                                            "children": [
+                                                {
+                                                    "wID": "10",
+                                                    "form": "θυμὸν",
+                                                    "lemma": "θυμός",
+                                                    "postag": "n-s---ma-",
+                                                    "head": "9",
+                                                    "relation": "OBJ",
+                                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:1.136",
+                                                    "id": "θυμὸν_10"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wID": "11",
+                                            "form": "ὅπως",
+                                            "lemma": "ὅπως",
+                                            "postag": "c--------",
+                                            "head": "8",
+                                            "relation": "AuxC",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:1.136",
+                                            "id": "ὅπως_11",
+                                            "children": [
+                                                {
+                                                    "wID": "13",
+                                                    "form": "ἔσται",
+                                                    "lemma": "εἰμί",
+                                                    "postag": "v3sfim---",
+                                                    "head": "11",
+                                                    "relation": "ADV",
+                                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:1.136",
+                                                    "id": "ἔσται_13",
+                                                    "children": [
+                                                        {
+                                                            "wID": "12",
+                                                            "form": "ἀντάξιον",
+                                                            "lemma": "ἀντάξιος",
+                                                            "postag": "a-s---nn-",
+                                                            "head": "13",
+                                                            "relation": "PNOM",
+                                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:1.136",
+                                                            "id": "ἀντάξιον_12"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "δ'",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.208",
+            "id": "δ'_5",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "φάτο",
+                    "lemma": "φημί",
+                    "postag": "v3sai----",
+                    "head": "5",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.208",
+                    "id": "φάτο_2",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.208",
+                            "id": "ὣς_1"
+                        }
+                    ]
+                },
+                {
+                    "wID": "3",
+                    "form": ",",
+                    "lemma": ",",
+                    "postag": "u--------",
+                    "head": "5",
+                    "relation": "AuxX",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.208",
+                    "id": ",_3"
+                },
+                {
+                    "wID": "10",
+                    "form": "ὄρινε",
+                    "lemma": "ὀρίνω",
+                    "postag": "v3siia---",
+                    "head": "5",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.208",
+                    "id": "ὄρινε_10",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "τῷ",
+                            "lemma": "ὁ",
+                            "postag": "p-s---md-",
+                            "head": "10",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.208",
+                            "id": "τῷ_4"
+                        },
+                        {
+                            "wID": "6",
+                            "form": "ἄρα",
+                            "lemma": "ἄρα",
+                            "postag": "g--------",
+                            "head": "10",
+                            "relation": "AuxY",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.208",
+                            "id": "ἄρα_6"
+                        },
+                        {
+                            "wID": "7",
+                            "form": "θυμὸν",
+                            "lemma": "θυμός",
+                            "postag": "n-s---ma-",
+                            "head": "10",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.208",
+                            "id": "θυμὸν_7",
+                            "children": [
+                                {
+                                    "wID": "8",
+                                    "form": "ἐνὶ",
+                                    "lemma": "ἐν",
+                                    "postag": "r--------",
+                                    "head": "7",
+                                    "relation": "AuxP",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.208",
+                                    "id": "ἐνὶ_8",
+                                    "children": [
+                                        {
+                                            "wID": "9",
+                                            "form": "στήθεσσιν",
+                                            "lemma": "στῆθος",
+                                            "postag": "n-p---nd-",
+                                            "head": "8",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.208",
+                                            "id": "στήθεσσιν_9"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "11",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.208",
+            "id": "·_11"
+        }
+    ]
+}

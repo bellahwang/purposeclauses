@@ -1,0 +1,126 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "2",
+            "form": "ὄφελόν",
+            "lemma": "ὀφείλω",
+            "postag": "v1saia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.380",
+            "id": "ὄφελόν_2",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὡς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "2",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.380",
+                    "id": "ὡς_1"
+                },
+                {
+                    "wID": "10",
+                    "form": "ἑλέσθαι",
+                    "lemma": "αἱρέω",
+                    "postag": "v--anm---",
+                    "head": "2",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.381",
+                    "id": "ἑλέσθαι_10",
+                    "children": [
+                        {
+                            "wID": "7",
+                            "form": "βαλὼν",
+                            "lemma": "βάλλω",
+                            "postag": "v-sapamn-",
+                            "head": "10",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.381",
+                            "id": "βαλὼν_7",
+                            "children": [
+                                {
+                                    "wID": "5",
+                                    "form": "ἐς",
+                                    "lemma": "εἰς",
+                                    "postag": "r--------",
+                                    "head": "7",
+                                    "relation": "AuxP",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.381",
+                                    "id": "ἐς_5",
+                                    "children": [
+                                        {
+                                            "wID": "6",
+                                            "form": "κενεῶνα",
+                                            "lemma": "κενεών",
+                                            "postag": "n-s---ma-",
+                                            "head": "5",
+                                            "relation": "OBJ",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.381",
+                                            "id": "κενεῶνα_6",
+                                            "children": [
+                                                {
+                                                    "wID": "3",
+                                                    "form": "τοι",
+                                                    "lemma": "σύ",
+                                                    "postag": "p-s----d-",
+                                                    "head": "6",
+                                                    "relation": "ATR",
+                                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.380",
+                                                    "id": "τοι_3"
+                                                },
+                                                {
+                                                    "wID": "4",
+                                                    "form": "νείατον",
+                                                    "lemma": "νέατος",
+                                                    "postag": "a-s---ma-",
+                                                    "head": "6",
+                                                    "relation": "ATR",
+                                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.381",
+                                                    "id": "νείατον_4"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "wID": "8",
+                            "form": "ἐκ",
+                            "lemma": "ἐκ",
+                            "postag": "r--------",
+                            "head": "10",
+                            "relation": "AuxZ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.381",
+                            "id": "ἐκ_8"
+                        },
+                        {
+                            "wID": "9",
+                            "form": "θυμὸν",
+                            "lemma": "θυμός",
+                            "postag": "n-s---ma-",
+                            "head": "10",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.381",
+                            "id": "θυμὸν_9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "11",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.381",
+            "id": "._11"
+        }
+    ]
+}

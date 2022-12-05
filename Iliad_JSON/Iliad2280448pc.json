@@ -1,0 +1,102 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "8",
+            "form": "μελόντων",
+            "lemma": "μέλω",
+            "postag": "v3ppma---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.29",
+            "id": "μελόντων_8",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "τέκνον",
+                    "lemma": "τέκνον",
+                    "postag": "n-s---nv-",
+                    "head": "8",
+                    "relation": "ExD",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.29",
+                    "id": "τέκνον_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "μή",
+                    "lemma": "μή",
+                    "postag": "d--------",
+                    "head": "8",
+                    "relation": "AuxZ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.29",
+                    "id": "μή_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "τοι",
+                    "lemma": "σύ",
+                    "postag": "p-s---md-",
+                    "head": "8",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.29",
+                    "id": "τοι_3"
+                },
+                {
+                    "wID": "4",
+                    "form": "ταῦτα",
+                    "lemma": "οὗτος",
+                    "postag": "a-p---nn-",
+                    "head": "8",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.29",
+                    "id": "ταῦτα_4"
+                },
+                {
+                    "wID": "5",
+                    "form": "μετὰ",
+                    "lemma": "μετά",
+                    "postag": "r--------",
+                    "head": "8",
+                    "relation": "AuxP",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.29",
+                    "id": "μετὰ_5",
+                    "children": [
+                        {
+                            "wID": "6",
+                            "form": "φρεσὶ",
+                            "lemma": "φρήν",
+                            "postag": "n-p---fd-",
+                            "head": "5",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.29",
+                            "id": "φρεσὶ_6",
+                            "children": [
+                                {
+                                    "wID": "7",
+                                    "form": "σῇσι",
+                                    "lemma": "σός",
+                                    "postag": "a-p---fd-",
+                                    "head": "6",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.29",
+                                    "id": "σῇσι_7"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "9",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.29",
+            "id": "._9"
+        }
+    ]
+}

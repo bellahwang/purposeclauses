@@ -1,0 +1,123 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "10",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:1.32",
+            "id": "._10"
+        },
+        {
+            "wID": "11",
+            "form": "[0]",
+            "head": "0",
+            "relation": "COORD",
+            "id": "[0]_11",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "ἴθι",
+                    "lemma": "εἶμι",
+                    "postag": "v2spma---",
+                    "head": "11",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:1.32",
+                    "id": "ἴθι_2",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ἀλλ'",
+                            "lemma": "ἀλλά",
+                            "postag": "d--------",
+                            "head": "2",
+                            "relation": "AuxY",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:1.32",
+                            "id": "ἀλλ'_1"
+                        }
+                    ]
+                },
+                {
+                    "wID": "5",
+                    "form": "ἐρέθιζε",
+                    "lemma": "ἐρεθίζω",
+                    "postag": "v2spma---",
+                    "head": "11",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:1.32",
+                    "id": "ἐρέθιζε_5",
+                    "children": [
+                        {
+                            "wID": "3",
+                            "form": "μή",
+                            "lemma": "μή",
+                            "postag": "d--------",
+                            "head": "5",
+                            "relation": "AuxZ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:1.32",
+                            "id": "μή_3"
+                        },
+                        {
+                            "wID": "4",
+                            "form": "μ'",
+                            "lemma": "ἐγώ",
+                            "postag": "p-s---ma-",
+                            "head": "5",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:1.32",
+                            "id": "μ'_4"
+                        }
+                    ]
+                },
+                {
+                    "wID": "7",
+                    "form": "ὥς",
+                    "lemma": "ὡς",
+                    "postag": "c--------",
+                    "head": "11",
+                    "relation": "AuxC",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:1.32",
+                    "id": "ὥς_7",
+                    "children": [
+                        {
+                            "wID": "9",
+                            "form": "νέηαι",
+                            "lemma": "νέομαι",
+                            "postag": "v2spse---",
+                            "head": "7",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:1.32",
+                            "id": "νέηαι_9",
+                            "children": [
+                                {
+                                    "wID": "6",
+                                    "form": "σαώτερος",
+                                    "lemma": "σῶς",
+                                    "postag": "a-s---mnc",
+                                    "head": "9",
+                                    "relation": "AtvV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:1.32",
+                                    "id": "σαώτερος_6"
+                                },
+                                {
+                                    "wID": "8",
+                                    "form": "κε",
+                                    "lemma": "ἄν",
+                                    "postag": "g--------",
+                                    "head": "9",
+                                    "relation": "AuxZ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:1.32",
+                                    "id": "κε_8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

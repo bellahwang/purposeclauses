@@ -1,0 +1,100 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "ἀφεξόμεθ'",
+            "lemma": "ἀπέχω",
+            "postag": "v1pfim---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:8.35",
+            "id": "ἀφεξόμεθ'_5",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ἀλλ'",
+                    "lemma": "ἀλλά",
+                    "postag": "d--------",
+                    "head": "5",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:8.35",
+                    "id": "ἀλλ'_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "ἤτοι",
+                    "lemma": "ἤτοι",
+                    "postag": "g--------",
+                    "head": "5",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:8.35",
+                    "id": "ἤτοι_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "πολέμου",
+                    "lemma": "πόλεμος",
+                    "postag": "n-s---mg-",
+                    "head": "5",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:8.35",
+                    "id": "πολέμου_3"
+                },
+                {
+                    "wID": "4",
+                    "form": "μὲν",
+                    "lemma": "μέν",
+                    "postag": "g--------",
+                    "head": "5",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:8.35",
+                    "id": "μὲν_4"
+                },
+                {
+                    "wID": "8",
+                    "form": "κελεύεις",
+                    "lemma": "κελεύω",
+                    "postag": "v2spia---",
+                    "head": "5",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:8.35",
+                    "id": "κελεύεις_8",
+                    "children": [
+                        {
+                            "wID": "6",
+                            "form": "ὡς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "8",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:8.35",
+                            "id": "ὡς_6"
+                        },
+                        {
+                            "wID": "7",
+                            "form": "σὺ",
+                            "lemma": "σύ",
+                            "postag": "p-s----n-",
+                            "head": "8",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:8.35",
+                            "id": "σὺ_7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "9",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:8.35",
+            "id": "·_9"
+        }
+    ]
+}

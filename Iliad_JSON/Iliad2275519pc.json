@@ -1,0 +1,125 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "10",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.178",
+            "id": "·_10"
+        },
+        {
+            "wID": "11",
+            "form": "[0]",
+            "head": "0",
+            "relation": "PRED",
+            "id": "[0]_11",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "εἰ",
+                    "lemma": "εἰ",
+                    "postag": "c--------",
+                    "head": "11",
+                    "relation": "AuxC",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.177",
+                    "id": "εἰ_1",
+                    "children": [
+                        {
+                            "wID": "5",
+                            "form": "ἐστι",
+                            "lemma": "εἰμί",
+                            "postag": "v3spia---",
+                            "head": "1",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.177",
+                            "id": "ἐστι_5",
+                            "children": [
+                                {
+                                    "wID": "2",
+                                    "form": "μή",
+                                    "lemma": "μή",
+                                    "postag": "d--------",
+                                    "head": "5",
+                                    "relation": "AuxZ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.177",
+                                    "id": "μή_2"
+                                },
+                                {
+                                    "wID": "4",
+                                    "form": "θεός",
+                                    "lemma": "θεός",
+                                    "postag": "n-s---mn-",
+                                    "head": "5",
+                                    "relation": "PNOM",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.177",
+                                    "id": "θεός_4",
+                                    "children": [
+                                        {
+                                            "wID": "3",
+                                            "form": "τις",
+                                            "lemma": "τις",
+                                            "postag": "p-s---mn-",
+                                            "head": "4",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.177",
+                                            "id": "τις_3"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wID": "6",
+                    "form": "κοτεσσάμενος",
+                    "lemma": "κοτέω",
+                    "postag": "v-sapmmn-",
+                    "head": "11",
+                    "relation": "ATR_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.177",
+                    "id": "κοτεσσάμενος_6",
+                    "children": [
+                        {
+                            "wID": "7",
+                            "form": "Τρώεσσιν",
+                            "lemma": "Τρώς",
+                            "postag": "n-p---md-",
+                            "head": "6",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.177",
+                            "id": "Τρώεσσιν_7"
+                        }
+                    ]
+                },
+                {
+                    "wID": "9",
+                    "form": "μηνίσας",
+                    "lemma": "μηνίω",
+                    "postag": "v-sapamn-",
+                    "head": "11",
+                    "relation": "ATR_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.178",
+                    "id": "μηνίσας_9",
+                    "children": [
+                        {
+                            "wID": "8",
+                            "form": "ἱρῶν",
+                            "lemma": "ἱερός",
+                            "postag": "a-p---ng-",
+                            "head": "9",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.178",
+                            "id": "ἱρῶν_8"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

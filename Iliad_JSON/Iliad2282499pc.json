@@ -1,0 +1,60 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "3",
+            "form": "ὤφελλον",
+            "lemma": "ὀφέλλω",
+            "postag": "v1siia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.764",
+            "id": "ὤφελλον_3",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὡς",
+                    "lemma": "ὡς",
+                    "postag": "i--------",
+                    "head": "3",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.764",
+                    "id": "ὡς_1"
+                },
+                {
+                    "wID": "4",
+                    "form": "ὀλέσθαι",
+                    "lemma": "ὄλλυμι",
+                    "postag": "v--anm---",
+                    "head": "3",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.764",
+                    "id": "ὀλέσθαι_4",
+                    "children": [
+                        {
+                            "wID": "2",
+                            "form": "πρὶν",
+                            "lemma": "πρίν",
+                            "postag": "d--------",
+                            "head": "4",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.764",
+                            "id": "πρὶν_2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "5",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.764",
+            "id": "._5"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "9",
+            "form": "καὶ",
+            "lemma": "καί",
+            "postag": "c--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.424",
+            "id": "καὶ_9",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "φάτο",
+                    "lemma": "φημί",
+                    "postag": "v3saim---",
+                    "head": "9",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.424",
+                    "id": "φάτο_2",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.424",
+                            "id": "ὣς_1"
+                        }
+                    ]
+                },
+                {
+                    "wID": "3",
+                    "form": ",",
+                    "lemma": ",",
+                    "postag": "u--------",
+                    "head": "9",
+                    "relation": "AuxX",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.424",
+                    "id": ",_3"
+                },
+                {
+                    "wID": "4",
+                    "form": "γήθησεν",
+                    "lemma": "γηθέω",
+                    "postag": "v3saia---",
+                    "head": "9",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.424",
+                    "id": "γήθησεν_4",
+                    "children": [
+                        {
+                            "wID": "7",
+                            "form": "γέρων",
+                            "lemma": "γέρων",
+                            "postag": "n-s---mn-",
+                            "head": "4",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.424",
+                            "id": "γέρων_7",
+                            "children": [
+                                {
+                                    "wID": "6",
+                                    "form": "ὃ",
+                                    "lemma": "ὁ",
+                                    "postag": "l-s---mn-",
+                                    "head": "7",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.424",
+                                    "id": "ὃ_6"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wID": "5",
+                    "form": "δ'",
+                    "lemma": "δέ",
+                    "postag": "g--------",
+                    "head": "9",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.424",
+                    "id": "δ'_5"
+                },
+                {
+                    "wID": "8",
+                    "form": ",",
+                    "lemma": ",",
+                    "postag": "u--------",
+                    "head": "9",
+                    "relation": "AuxX",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.424",
+                    "id": ",_8"
+                },
+                {
+                    "wID": "10",
+                    "form": "ἀμείβετο",
+                    "lemma": "ἀμείβω",
+                    "postag": "v3siie---",
+                    "head": "9",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.424",
+                    "id": "ἀμείβετο_10",
+                    "children": [
+                        {
+                            "wID": "11",
+                            "form": "μύθῳ",
+                            "lemma": "μῦθος",
+                            "postag": "n-s---md-",
+                            "head": "10",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.424",
+                            "id": "μύθῳ_11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "12",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.424",
+            "id": "·_12"
+        }
+    ]
+}

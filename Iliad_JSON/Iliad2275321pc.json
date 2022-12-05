@@ -1,0 +1,116 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "2",
+            "form": "δ'",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.356",
+            "id": "δ'_2",
+            "children": [
+                {
+                    "wID": "4",
+                    "form": "προσέφη",
+                    "lemma": "πρόσφημι",
+                    "postag": "v3siia---",
+                    "head": "2",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.356",
+                    "id": "προσέφη_4",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "τὸν",
+                            "lemma": "ὁ",
+                            "postag": "p-s---ma-",
+                            "head": "4",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.356",
+                            "id": "τὸν_1"
+                        },
+                        {
+                            "wID": "3",
+                            "form": "ἐπιμειδήσας",
+                            "lemma": "ἐπιμειδάω",
+                            "postag": "v-sapamn-",
+                            "head": "4",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.356",
+                            "id": "ἐπιμειδήσας_3"
+                        },
+                        {
+                            "wID": "6",
+                            "form": "Ἀγαμέμνων",
+                            "lemma": "Ἀγαμέμνων",
+                            "postag": "n-s---mn-",
+                            "head": "4",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.356",
+                            "id": "Ἀγαμέμνων_6",
+                            "children": [
+                                {
+                                    "wID": "5",
+                                    "form": "κρείων",
+                                    "lemma": "κρείων",
+                                    "postag": "n-s---mn-",
+                                    "head": "6",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.356",
+                                    "id": "κρείων_5"
+                                }
+                            ]
+                        },
+                        {
+                            "wID": "7",
+                            "form": "ὡς",
+                            "lemma": "ὡς",
+                            "postag": "c--------",
+                            "head": "4",
+                            "relation": "AuxC",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.357",
+                            "id": "ὡς_7",
+                            "children": [
+                                {
+                                    "wID": "8",
+                                    "form": "γνῶ",
+                                    "lemma": "γιγνώσκω",
+                                    "postag": "v3saia---",
+                                    "head": "7",
+                                    "relation": "ADV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.357",
+                                    "id": "γνῶ_8",
+                                    "children": [
+                                        {
+                                            "wID": "9",
+                                            "form": "χωομένοιο",
+                                            "lemma": "χώομαι",
+                                            "postag": "v-sppemg-",
+                                            "head": "8",
+                                            "relation": "AtvV",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.357",
+                                            "id": "χωομένοιο_9"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "10",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.357",
+            "id": "·_10"
+        }
+    ]
+}

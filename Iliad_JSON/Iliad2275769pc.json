@@ -1,0 +1,92 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "4",
+            "form": "πονέοντο",
+            "lemma": "πονέω",
+            "postag": "v3piie---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.627",
+            "id": "πονέοντο_4",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὣς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "4",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.627",
+                    "id": "ὣς_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "οἳ",
+                    "lemma": "ὁ",
+                    "postag": "p-p---mn-",
+                    "head": "4",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.627",
+                    "id": "οἳ_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "μὲν",
+                    "lemma": "μέν",
+                    "postag": "g--------",
+                    "head": "4",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.627",
+                    "id": "μὲν_3"
+                },
+                {
+                    "wID": "5",
+                    "form": "κατὰ",
+                    "lemma": "κατά",
+                    "postag": "r--------",
+                    "head": "4",
+                    "relation": "AuxP",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.627",
+                    "id": "κατὰ_5",
+                    "children": [
+                        {
+                            "wID": "7",
+                            "form": "ὑσμίνην",
+                            "lemma": "ὑσμίνη",
+                            "postag": "n-s---fa-",
+                            "head": "5",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.627",
+                            "id": "ὑσμίνην_7",
+                            "children": [
+                                {
+                                    "wID": "6",
+                                    "form": "κρατερὴν",
+                                    "lemma": "κρατερός",
+                                    "postag": "a-s---fa-",
+                                    "head": "7",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.627",
+                                    "id": "κρατερὴν_6"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.627",
+            "id": "·_8"
+        }
+    ]
+}

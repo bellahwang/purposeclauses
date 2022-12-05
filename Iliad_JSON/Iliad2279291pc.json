@@ -1,0 +1,80 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "6",
+            "form": "ἄμφεπεν",
+            "lemma": "ἀμφιέπω",
+            "postag": "v3siia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:16.124",
+            "id": "ἄμφεπεν_6",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὣς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "6",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:16.124",
+                    "id": "ὣς_1"
+                },
+                {
+                    "wID": "3",
+                    "form": "μὲν",
+                    "lemma": "μέν",
+                    "postag": "g--------",
+                    "head": "6",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:16.124",
+                    "id": "μὲν_3"
+                },
+                {
+                    "wID": "4",
+                    "form": "πρυμνὴν",
+                    "lemma": "πρυμνός",
+                    "postag": "a-s---fa-",
+                    "head": "6",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:16.124",
+                    "id": "πρυμνὴν_4",
+                    "children": [
+                        {
+                            "wID": "2",
+                            "form": "τὴν",
+                            "lemma": "ὁ",
+                            "postag": "l-s---fa-",
+                            "head": "4",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:16.124",
+                            "id": "τὴν_2"
+                        }
+                    ]
+                },
+                {
+                    "wID": "5",
+                    "form": "πῦρ",
+                    "lemma": "πῦρ",
+                    "postag": "n-s---nn-",
+                    "head": "6",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:16.124",
+                    "id": "πῦρ_5"
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:16.124",
+            "id": "·_7"
+        }
+    ]
+}

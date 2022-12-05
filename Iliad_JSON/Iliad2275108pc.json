@@ -1,0 +1,90 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "7",
+            "form": "ἔνιπτε",
+            "lemma": "ἐνίπτω",
+            "postag": "v2spma---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.438",
+            "id": "ἔνιπτε_7",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "μή",
+                    "lemma": "μή",
+                    "postag": "d--------",
+                    "head": "7",
+                    "relation": "AuxZ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.438",
+                    "id": "μή_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "με",
+                    "lemma": "ἐγώ",
+                    "postag": "p-s---ma-",
+                    "head": "7",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.438",
+                    "id": "με_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "γύναι",
+                    "lemma": "γυνή",
+                    "postag": "n-s---fv-",
+                    "head": "7",
+                    "relation": "ExD",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.438",
+                    "id": "γύναι_3"
+                },
+                {
+                    "wID": "5",
+                    "form": "ὀνείδεσι",
+                    "lemma": "ὄνειδος",
+                    "postag": "n-p---nd-",
+                    "head": "7",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.438",
+                    "id": "ὀνείδεσι_5",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "χαλεποῖσιν",
+                            "lemma": "χαλεπός",
+                            "postag": "a-p---nd-",
+                            "head": "5",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.438",
+                            "id": "χαλεποῖσιν_4"
+                        }
+                    ]
+                },
+                {
+                    "wID": "6",
+                    "form": "θυμὸν",
+                    "lemma": "θυμός",
+                    "postag": "n-s---ma-",
+                    "head": "7",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.438",
+                    "id": "θυμὸν_6"
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.438",
+            "id": "·_8"
+        }
+    ]
+}

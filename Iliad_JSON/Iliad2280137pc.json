@@ -1,0 +1,99 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "4",
+            "form": "ἐχόλωσεν",
+            "lemma": "χολόω",
+            "postag": "v3saia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.111",
+            "id": "ἐχόλωσεν_4",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὡς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "4",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.111",
+                    "id": "ὡς_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "ἐμὲ",
+                    "lemma": "ἐγώ",
+                    "postag": "p-s---ma-",
+                    "head": "4",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.111",
+                    "id": "ἐμὲ_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "νῦν",
+                    "lemma": "νῦν",
+                    "postag": "d--------",
+                    "head": "4",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.111",
+                    "id": "νῦν_3"
+                },
+                {
+                    "wID": "9",
+                    "form": "[0]",
+                    "head": "4",
+                    "relation": "APOS",
+                    "id": "[0]_9",
+                    "children": [
+                        {
+                            "wID": "5",
+                            "form": "ἄναξ",
+                            "lemma": "ἄναξ",
+                            "postag": "n-s---mn-",
+                            "head": "9",
+                            "relation": "SBJ_AP",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.111",
+                            "id": "ἄναξ_5",
+                            "children": [
+                                {
+                                    "wID": "6",
+                                    "form": "ἀνδρῶν",
+                                    "lemma": "ἀνήρ",
+                                    "postag": "n-p---mg-",
+                                    "head": "5",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.111",
+                                    "id": "ἀνδρῶν_6"
+                                }
+                            ]
+                        },
+                        {
+                            "wID": "7",
+                            "form": "Ἀγαμέμνων",
+                            "lemma": "Ἀγαμέμνων",
+                            "postag": "n-s---mn-",
+                            "head": "9",
+                            "relation": "SBJ_AP",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.111",
+                            "id": "Ἀγαμέμνων_7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.111",
+            "id": "._8"
+        }
+    ]
+}

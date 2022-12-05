@@ -1,0 +1,148 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "δ'",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.328",
+            "id": "δ'_5",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "φάθ'",
+                    "lemma": "φημί",
+                    "postag": "v3saim---",
+                    "head": "5",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.328",
+                    "id": "φάθ'_2",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.328",
+                            "id": "ὣς_1"
+                        }
+                    ]
+                },
+                {
+                    "wID": "3",
+                    "form": ",",
+                    "lemma": ",",
+                    "postag": "u--------",
+                    "head": "5",
+                    "relation": "AuxX",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.328",
+                    "id": ",_3"
+                },
+                {
+                    "wID": "10",
+                    "form": "καί",
+                    "lemma": "καί",
+                    "postag": "c--------",
+                    "head": "5",
+                    "relation": "COORD",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.328",
+                    "id": "καί_10",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "ὃ",
+                            "lemma": "ὁ",
+                            "postag": "p-s---mn-",
+                            "head": "10",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.328",
+                            "id": "ὃ_4"
+                        },
+                        {
+                            "wID": "9",
+                            "form": "λάβε",
+                            "lemma": "λαμβάνω",
+                            "postag": "v3saia---",
+                            "head": "10",
+                            "relation": "PRED_CO",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.328",
+                            "id": "λάβε_9",
+                            "children": [
+                                {
+                                    "wID": "6",
+                                    "form": "ἐν",
+                                    "lemma": "ἐν",
+                                    "postag": "r--------",
+                                    "head": "9",
+                                    "relation": "AuxP",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.328",
+                                    "id": "ἐν_6",
+                                    "children": [
+                                        {
+                                            "wID": "7",
+                                            "form": "χερσὶ",
+                                            "lemma": "χείρ",
+                                            "postag": "n-p---fd-",
+                                            "head": "6",
+                                            "relation": "OBJ",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.328",
+                                            "id": "χερσὶ_7"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wID": "8",
+                                    "form": "σκῆπτρον",
+                                    "lemma": "σκῆπτρον",
+                                    "postag": "n-s---na-",
+                                    "head": "9",
+                                    "relation": "OBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.328",
+                                    "id": "σκῆπτρον_8"
+                                }
+                            ]
+                        },
+                        {
+                            "wID": "12",
+                            "form": "ὄμοσσεν",
+                            "lemma": "ὄμνυμι",
+                            "postag": "v3saia---",
+                            "head": "10",
+                            "relation": "PRED_CO",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.328",
+                            "id": "ὄμοσσεν_12",
+                            "children": [
+                                {
+                                    "wID": "11",
+                                    "form": "οἱ",
+                                    "lemma": "ἕ",
+                                    "postag": "p-s---md-",
+                                    "head": "12",
+                                    "relation": "OBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.328",
+                                    "id": "οἱ_11"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "13",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.328",
+            "id": "·_13"
+        }
+    ]
+}

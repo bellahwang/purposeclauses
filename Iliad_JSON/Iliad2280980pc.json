@@ -1,0 +1,102 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "7",
+            "form": "δ'",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.99",
+            "id": "δ'_7",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "νήπιε",
+                    "lemma": "νήπιος",
+                    "postag": "a-s---mv-",
+                    "head": "7",
+                    "relation": "ExD",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.99",
+                    "id": "νήπιε_1"
+                },
+                {
+                    "wID": "5",
+                    "form": "πιφαύσκεο",
+                    "lemma": "πιφαύσκω",
+                    "postag": "v2spme---",
+                    "head": "7",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.99",
+                    "id": "πιφαύσκεο_5",
+                    "children": [
+                        {
+                            "wID": "2",
+                            "form": "μή",
+                            "lemma": "μή",
+                            "postag": "d--------",
+                            "head": "5",
+                            "relation": "AuxZ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.99",
+                            "id": "μή_2"
+                        },
+                        {
+                            "wID": "3",
+                            "form": "μοι",
+                            "lemma": "ἐγώ",
+                            "postag": "p-s---md-",
+                            "head": "5",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.99",
+                            "id": "μοι_3"
+                        },
+                        {
+                            "wID": "4",
+                            "form": "ἄποινα",
+                            "lemma": "ἄποινα",
+                            "postag": "n-p---na-",
+                            "head": "5",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.99",
+                            "id": "ἄποινα_4"
+                        }
+                    ]
+                },
+                {
+                    "wID": "8",
+                    "form": "ἀγόρευε",
+                    "lemma": "ἀγορεύω",
+                    "postag": "v2spma---",
+                    "head": "7",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.99",
+                    "id": "ἀγόρευε_8",
+                    "children": [
+                        {
+                            "wID": "6",
+                            "form": "μη",
+                            "lemma": "μή",
+                            "postag": "g--------",
+                            "head": "8",
+                            "relation": "AuxZ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.99",
+                            "id": "μη_6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "9",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.99",
+            "id": "·_9"
+        }
+    ]
+}

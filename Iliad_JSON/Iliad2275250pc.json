@@ -1,0 +1,90 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "μεθίετε",
+            "lemma": "μεθίημι",
+            "postag": "v2ppma---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.234",
+            "id": "μεθίετε_5",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "Ἀργεῖοι",
+                    "lemma": "Ἀργεῖος",
+                    "postag": "a-p---mv-",
+                    "head": "5",
+                    "relation": "ExD",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.234",
+                    "id": "Ἀργεῖοι_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "μή",
+                    "lemma": "μή",
+                    "postag": "d--------",
+                    "head": "5",
+                    "relation": "AuxZ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.234",
+                    "id": "μή_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "πώ",
+                    "lemma": "πω",
+                    "postag": "g--------",
+                    "head": "5",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.234",
+                    "id": "πώ_3"
+                },
+                {
+                    "wID": "4",
+                    "form": "τι",
+                    "lemma": "τις",
+                    "postag": "p-s---na-",
+                    "head": "5",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.234",
+                    "id": "τι_4"
+                },
+                {
+                    "wID": "7",
+                    "form": "ἀλκῆς",
+                    "lemma": "ἀλκή",
+                    "postag": "n-s---fg-",
+                    "head": "5",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.234",
+                    "id": "ἀλκῆς_7",
+                    "children": [
+                        {
+                            "wID": "6",
+                            "form": "θούριδος",
+                            "lemma": "θοῦρος",
+                            "postag": "a-s---fg-",
+                            "head": "7",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.234",
+                            "id": "θούριδος_6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.234",
+            "id": "·_8"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "7",
+            "form": "ἔθηκε",
+            "lemma": "τίθημι",
+            "postag": "v3saia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.12",
+            "id": "ἔθηκε_7",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "ἄρα",
+                    "lemma": "ἄρα",
+                    "postag": "g--------",
+                    "head": "7",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.12",
+                    "id": "ἄρα_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "φωνήσασα",
+                    "lemma": "φωνέω",
+                    "postag": "v-sapafn-",
+                    "head": "7",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.12",
+                    "id": "φωνήσασα_3",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὡς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "3",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.12",
+                            "id": "ὡς_1"
+                        }
+                    ]
+                },
+                {
+                    "wID": "4",
+                    "form": "θεὰ",
+                    "lemma": "θεά",
+                    "postag": "n-s---fn-",
+                    "head": "7",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.12",
+                    "id": "θεὰ_4"
+                },
+                {
+                    "wID": "5",
+                    "form": "κατὰ",
+                    "lemma": "κατά",
+                    "postag": "r--------",
+                    "head": "7",
+                    "relation": "AuxZ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.12",
+                    "id": "κατὰ_5"
+                },
+                {
+                    "wID": "6",
+                    "form": "τεύχε'",
+                    "lemma": "τεῦχος",
+                    "postag": "n-p---na-",
+                    "head": "7",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.12",
+                    "id": "τεύχε'_6"
+                },
+                {
+                    "wID": "8",
+                    "form": "πρόσθεν",
+                    "lemma": "πρόσθεν",
+                    "postag": "r--------",
+                    "head": "7",
+                    "relation": "AuxP",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.13",
+                    "id": "πρόσθεν_8",
+                    "children": [
+                        {
+                            "wID": "9",
+                            "form": "Ἀχιλλῆος",
+                            "lemma": "Ἀχιλλεύς",
+                            "postag": "n-s---mg-",
+                            "head": "8",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.13",
+                            "id": "Ἀχιλλῆος_9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "10",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.13",
+            "id": "·_10"
+        }
+    ]
+}

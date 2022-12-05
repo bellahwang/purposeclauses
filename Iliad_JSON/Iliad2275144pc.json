@@ -1,0 +1,50 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "1",
+            "form": "ἕρξον",
+            "lemma": "ἔρδω",
+            "postag": "v2sama---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.37",
+            "id": "ἕρξον_1",
+            "children": [
+                {
+                    "wID": "3",
+                    "form": "ἐθέλεις",
+                    "lemma": "ἐθέλω",
+                    "postag": "v2spia---",
+                    "head": "1",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:4.37",
+                    "id": "ἐθέλεις_3",
+                    "children": [
+                        {
+                            "wID": "2",
+                            "form": "ὅπως",
+                            "lemma": "ὅπως",
+                            "postag": "d--------",
+                            "head": "3",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.37",
+                            "id": "ὅπως_2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "4",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:4.37",
+            "id": "·_4"
+        }
+    ]
+}

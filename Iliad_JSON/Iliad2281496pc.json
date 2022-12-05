@@ -1,0 +1,80 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "4",
+            "form": "κεκόνιτο",
+            "lemma": "κονίω",
+            "postag": "v3slie---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.405",
+            "id": "κεκόνιτο_4",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὣς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "4",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.405",
+                    "id": "ὣς_1"
+                },
+                {
+                    "wID": "3",
+                    "form": "μὲν",
+                    "lemma": "μέν",
+                    "postag": "g--------",
+                    "head": "4",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.405",
+                    "id": "μὲν_3"
+                },
+                {
+                    "wID": "5",
+                    "form": "κάρη",
+                    "lemma": "κάρα",
+                    "postag": "n-s---nn-",
+                    "head": "4",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.405",
+                    "id": "κάρη_5",
+                    "children": [
+                        {
+                            "wID": "2",
+                            "form": "τοῦ",
+                            "lemma": "ὁ",
+                            "postag": "p-s---mg-",
+                            "head": "5",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.405",
+                            "id": "τοῦ_2"
+                        },
+                        {
+                            "wID": "6",
+                            "form": "ἅπαν",
+                            "lemma": "ἅπας",
+                            "postag": "a-s---nn-",
+                            "head": "5",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.405",
+                            "id": "ἅπαν_6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.405",
+            "id": "·_7"
+        }
+    ]
+}

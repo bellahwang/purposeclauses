@@ -1,0 +1,70 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "ἔχες",
+            "lemma": "ἔχω",
+            "postag": "v2spia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.441",
+            "id": "ἔχες_5",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "νηπύτι'",
+                    "lemma": "νηπύτιος",
+                    "postag": "n-s---mv-",
+                    "head": "5",
+                    "relation": "ExD",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.441",
+                    "id": "νηπύτι'_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "ὡς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "5",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.441",
+                    "id": "ὡς_2"
+                },
+                {
+                    "wID": "4",
+                    "form": "κραδίην",
+                    "lemma": "καρδία",
+                    "postag": "n-s---fa-",
+                    "head": "5",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.441",
+                    "id": "κραδίην_4",
+                    "children": [
+                        {
+                            "wID": "3",
+                            "form": "ἄνοον",
+                            "lemma": "ἄνοος",
+                            "postag": "a-s---fa-",
+                            "head": "4",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.441",
+                            "id": "ἄνοον_3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "6",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.441",
+            "id": "·_6"
+        }
+    ]
+}

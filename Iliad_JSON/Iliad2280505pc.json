@@ -1,0 +1,106 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "3",
+            "form": "ἔρριψεν",
+            "lemma": "ῥίπτω",
+            "postag": "v3saia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.130",
+            "id": "ἔρριψεν_3",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "εἰπὼν",
+                    "lemma": "εἶπον",
+                    "postag": "v-sapamn-",
+                    "head": "3",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.130",
+                    "id": "εἰπὼν_2",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.130",
+                            "id": "ὣς_1"
+                        }
+                    ]
+                },
+                {
+                    "wID": "4",
+                    "form": "ἀπ'",
+                    "lemma": "ἀπό",
+                    "postag": "r--------",
+                    "head": "3",
+                    "relation": "AuxP",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.130",
+                    "id": "ἀπ'_4",
+                    "children": [
+                        {
+                            "wID": "5",
+                            "form": "οὐρανοῦ",
+                            "lemma": "οὐρανός",
+                            "postag": "n-s---mg-",
+                            "head": "4",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.130",
+                            "id": "οὐρανοῦ_5",
+                            "children": [
+                                {
+                                    "wID": "6",
+                                    "form": "ἀστερόεντος",
+                                    "lemma": "ἀστερόεις",
+                                    "postag": "a-s---mg-",
+                                    "head": "5",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.130",
+                                    "id": "ἀστερόεντος_6"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wID": "8",
+                    "form": "περιστρέψας",
+                    "lemma": "περιστρέφω",
+                    "postag": "v-sapamn-",
+                    "head": "3",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.131",
+                    "id": "περιστρέψας_8",
+                    "children": [
+                        {
+                            "wID": "7",
+                            "form": "χειρὶ",
+                            "lemma": "χείρ",
+                            "postag": "n-s---fd-",
+                            "head": "8",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.131",
+                            "id": "χειρὶ_7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "9",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.131",
+            "id": "·_9"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "7",
+            "form": "ἵκανε",
+            "lemma": "ἱκάνω",
+            "postag": "v3siia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.214",
+            "id": "ἵκανε_7",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὣς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "7",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.214",
+                    "id": "ὣς_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "ἀπ'",
+                    "lemma": "ἀπό",
+                    "postag": "r--------",
+                    "head": "7",
+                    "relation": "AuxP",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.214",
+                    "id": "ἀπ'_2",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "κεφαλῆς",
+                            "lemma": "κεφαλή",
+                            "postag": "n-s---fg-",
+                            "head": "2",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.214",
+                            "id": "κεφαλῆς_4",
+                            "children": [
+                                {
+                                    "wID": "3",
+                                    "form": "Ἀχιλλῆος",
+                                    "lemma": "Ἀχιλλεύς",
+                                    "postag": "n-s---mg-",
+                                    "head": "4",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.214",
+                                    "id": "Ἀχιλλῆος_3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wID": "5",
+                    "form": "σέλας",
+                    "lemma": "σέλας",
+                    "postag": "n-s---nn-",
+                    "head": "7",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.214",
+                    "id": "σέλας_5"
+                },
+                {
+                    "wID": "6",
+                    "form": "αἰθέρ'",
+                    "lemma": "αἰθήρ",
+                    "postag": "n-s---ma-",
+                    "head": "7",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.214",
+                    "id": "αἰθέρ'_6"
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.214",
+            "id": "·_8"
+        }
+    ]
+}

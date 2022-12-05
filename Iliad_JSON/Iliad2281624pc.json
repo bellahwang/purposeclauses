@@ -1,0 +1,94 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "3",
+            "form": "ἀνώγει",
+            "lemma": "ἄνωγα",
+            "postag": "v3spia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:23.123",
+            "id": "ἀνώγει_3",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὡς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "3",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:23.123",
+                    "id": "ὡς_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "γὰρ",
+                    "lemma": "γάρ",
+                    "postag": "g--------",
+                    "head": "3",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:23.123",
+                    "id": "γὰρ_2"
+                },
+                {
+                    "wID": "4",
+                    "form": "Μηριόνης",
+                    "lemma": "Μηριόνης",
+                    "postag": "n-s---mn-",
+                    "head": "3",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:23.124",
+                    "id": "Μηριόνης_4",
+                    "children": [
+                        {
+                            "wID": "5",
+                            "form": "θεράπων",
+                            "lemma": "θεράπων",
+                            "postag": "n-s---mn-",
+                            "head": "4",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:23.124",
+                            "id": "θεράπων_5",
+                            "children": [
+                                {
+                                    "wID": "7",
+                                    "form": "Ἰδομενῆος",
+                                    "lemma": "Ἰδομενεύς",
+                                    "postag": "n-s---mg-",
+                                    "head": "5",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:23.124",
+                                    "id": "Ἰδομενῆος_7",
+                                    "children": [
+                                        {
+                                            "wID": "6",
+                                            "form": "ἀγαπήνορος",
+                                            "lemma": "ἀγαπήνωρ",
+                                            "postag": "a-s---mg-",
+                                            "head": "7",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:23.124",
+                                            "id": "ἀγαπήνορος_6"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:23.124",
+            "id": "._8"
+        }
+    ]
+}

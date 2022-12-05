@@ -1,0 +1,94 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "3",
+            "form": "ἵδρυσε",
+            "lemma": "ἱδρύω",
+            "postag": "v3saia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.142",
+            "id": "ἵδρυσε_3",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "εἰποῦσ'",
+                    "lemma": "εἶπον",
+                    "postag": "v-sapafn-",
+                    "head": "3",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.142",
+                    "id": "εἰποῦσ'_2",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.142",
+                            "id": "ὣς_1"
+                        }
+                    ]
+                },
+                {
+                    "wID": "5",
+                    "form": "ἔνι",
+                    "lemma": "ἐν",
+                    "postag": "r--------",
+                    "head": "3",
+                    "relation": "AuxP",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.142",
+                    "id": "ἔνι_5",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "θρόνῳ",
+                            "lemma": "θρόνος",
+                            "postag": "n-s---md-",
+                            "head": "5",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.142",
+                            "id": "θρόνῳ_4"
+                        }
+                    ]
+                },
+                {
+                    "wID": "7",
+                    "form": "Ἄρηα",
+                    "lemma": "Ἄρης",
+                    "postag": "n-s---ma-",
+                    "head": "3",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.142",
+                    "id": "Ἄρηα_7",
+                    "children": [
+                        {
+                            "wID": "6",
+                            "form": "θοῦρον",
+                            "lemma": "θοῦρος",
+                            "postag": "a-s---ma-",
+                            "head": "7",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.142",
+                            "id": "θοῦρον_6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.142",
+            "id": "._8"
+        }
+    ]
+}

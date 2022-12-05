@@ -1,0 +1,126 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "ἔην",
+            "lemma": "εἰμί",
+            "postag": "v3siia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.768",
+            "id": "ἔην_5",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "αὖ",
+                    "lemma": "αὖ",
+                    "postag": "d--------",
+                    "head": "5",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:2.768",
+                    "id": "αὖ_2"
+                },
+                {
+                    "wID": "4",
+                    "form": "ἄριστος",
+                    "lemma": "ἄριστος",
+                    "postag": "a-s---mns",
+                    "head": "5",
+                    "relation": "PNOM",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:2.768",
+                    "id": "ἄριστος_4",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ἀνδρῶν",
+                            "lemma": "ἀνήρ",
+                            "postag": "n-p---mg-",
+                            "head": "4",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.768",
+                            "id": "ἀνδρῶν_1"
+                        },
+                        {
+                            "wID": "3",
+                            "form": "μέγ'",
+                            "lemma": "μέγας",
+                            "postag": "a-s---na-",
+                            "head": "4",
+                            "relation": "AuxZ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.768",
+                            "id": "μέγ'_3"
+                        }
+                    ]
+                },
+                {
+                    "wID": "7",
+                    "form": "Αἴας",
+                    "lemma": "Αἴας",
+                    "postag": "n-s---mn-",
+                    "head": "5",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:2.768",
+                    "id": "Αἴας_7",
+                    "children": [
+                        {
+                            "wID": "6",
+                            "form": "Τελαμώνιος",
+                            "lemma": "Τελαμών",
+                            "postag": "a-s---mn-",
+                            "head": "7",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.768",
+                            "id": "Τελαμώνιος_6"
+                        }
+                    ]
+                },
+                {
+                    "wID": "8",
+                    "form": "ὄφρ'",
+                    "lemma": "ὄφρα",
+                    "postag": "c--------",
+                    "head": "5",
+                    "relation": "AuxC",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:2.769",
+                    "id": "ὄφρ'_8",
+                    "children": [
+                        {
+                            "wID": "10",
+                            "form": "μήνιεν",
+                            "lemma": "μηνίω",
+                            "postag": "v3siia---",
+                            "head": "8",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.769",
+                            "id": "μήνιεν_10",
+                            "children": [
+                                {
+                                    "wID": "9",
+                                    "form": "Ἀχιλεὺς",
+                                    "lemma": "Ἀχιλλεύς",
+                                    "postag": "n-s---mn-",
+                                    "head": "10",
+                                    "relation": "SBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:2.769",
+                                    "id": "Ἀχιλεὺς_9"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "11",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:2.769",
+            "id": "·_11"
+        }
+    ]
+}

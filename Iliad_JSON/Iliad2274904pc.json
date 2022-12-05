@@ -1,0 +1,92 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "πρόφερε",
+            "lemma": "προφέρω",
+            "postag": "v2spma---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.64",
+            "id": "πρόφερε_5",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "μή",
+                    "lemma": "μή",
+                    "postag": "d--------",
+                    "head": "5",
+                    "relation": "AuxZ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.64",
+                    "id": "μή_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "μοι",
+                    "lemma": "ἐγώ",
+                    "postag": "p-s---md-",
+                    "head": "5",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.64",
+                    "id": "μοι_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "δῶρ'",
+                    "lemma": "δῶρον",
+                    "postag": "n-p---na-",
+                    "head": "5",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.64",
+                    "id": "δῶρ'_3",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "ἐρατὰ",
+                            "lemma": "ἐρατός",
+                            "postag": "a-p---na-",
+                            "head": "3",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.64",
+                            "id": "ἐρατὰ_4"
+                        },
+                        {
+                            "wID": "7",
+                            "form": "Ἀφροδίτης",
+                            "lemma": "Ἀφροδίτη",
+                            "postag": "n-s---fg-",
+                            "head": "3",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.64",
+                            "id": "Ἀφροδίτης_7",
+                            "children": [
+                                {
+                                    "wID": "6",
+                                    "form": "χρυσέης",
+                                    "lemma": "χρύσεος",
+                                    "postag": "a-s---fg-",
+                                    "head": "7",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:3.64",
+                                    "id": "χρυσέης_6"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:3.64",
+            "id": "·_8"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "2",
+            "form": "δέ",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.756",
+            "id": "δέ_2",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ἀνέστησεν",
+                    "lemma": "ἀνίστημι",
+                    "postag": "v3saia---",
+                    "head": "2",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.756",
+                    "id": "ἀνέστησεν_1",
+                    "children": [
+                        {
+                            "wID": "3",
+                            "form": "μιν",
+                            "lemma": "μιν",
+                            "postag": "p-s---ma-",
+                            "head": "1",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.756",
+                            "id": "μιν_3"
+                        },
+                        {
+                            "wID": "6",
+                            "form": "ὧς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "1",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.756",
+                            "id": "ὧς_6",
+                            "children": [
+                                {
+                                    "wID": "4",
+                                    "form": "οὐ",
+                                    "lemma": "οὐδέ",
+                                    "postag": "g--------",
+                                    "head": "6",
+                                    "relation": "AuxZ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.756",
+                                    "id": "οὐ_4",
+                                    "children": [
+                                        {
+                                            "wID": "5",
+                                            "form": "δ'",
+                                            "lemma": "οὐδέ",
+                                            "postag": "g--------",
+                                            "head": "4",
+                                            "relation": "AuxZ",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.756",
+                                            "id": "δ'_5"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.756",
+            "id": "._7"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "6",
+            "form": "νεμέσα",
+            "lemma": "νεμεσάω",
+            "postag": "v2spma---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.145",
+            "id": "νεμέσα_6",
+            "children": [
+                {
+                    "wID": "5",
+                    "form": "μὴ",
+                    "lemma": "μή",
+                    "postag": "g--------",
+                    "head": "6",
+                    "relation": "AuxZ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.145",
+                    "id": "μὴ_5"
+                },
+                {
+                    "wID": "8",
+                    "form": "[0]",
+                    "head": "6",
+                    "relation": "APOS",
+                    "id": "[0]_8",
+                    "children": [
+                        {
+                            "wID": "2",
+                            "form": "Λαερτιάδη",
+                            "lemma": "Λαερτιάδης",
+                            "postag": "n-s---mv-",
+                            "head": "8",
+                            "relation": "ExD",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.144",
+                            "id": "Λαερτιάδη_2",
+                            "children": [
+                                {
+                                    "wID": "1",
+                                    "form": "διογενὲς",
+                                    "lemma": "διογενής",
+                                    "postag": "a-s---mv-",
+                                    "head": "2",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.144",
+                                    "id": "διογενὲς_1"
+                                }
+                            ]
+                        },
+                        {
+                            "wID": "4",
+                            "form": "Ὀδυσσεῦ",
+                            "lemma": "Ὀδυσσεύς",
+                            "postag": "n-s---mv-",
+                            "head": "8",
+                            "relation": "ExD",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.144",
+                            "id": "Ὀδυσσεῦ_4",
+                            "children": [
+                                {
+                                    "wID": "3",
+                                    "form": "πολυμήχαν'",
+                                    "lemma": "πολυμήχανος",
+                                    "postag": "a-s---mv-",
+                                    "head": "4",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.144",
+                                    "id": "πολυμήχαν'_3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.145",
+            "id": "·_7"
+        }
+    ]
+}

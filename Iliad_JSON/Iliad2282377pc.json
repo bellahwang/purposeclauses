@@ -1,0 +1,102 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "3",
+            "form": "ἐπεκλώσαντο",
+            "lemma": "ἐπικλώθω",
+            "postag": "v3paim---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.525",
+            "id": "ἐπεκλώσαντο_3",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὡς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "3",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.525",
+                    "id": "ὡς_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "γὰρ",
+                    "lemma": "γάρ",
+                    "postag": "g--------",
+                    "head": "3",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.525",
+                    "id": "γὰρ_2"
+                },
+                {
+                    "wID": "4",
+                    "form": "θεοὶ",
+                    "lemma": "θεός",
+                    "postag": "n-p---mn-",
+                    "head": "3",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.525",
+                    "id": "θεοὶ_4"
+                },
+                {
+                    "wID": "6",
+                    "form": "βροτοῖσι",
+                    "lemma": "βροτός",
+                    "postag": "n-p---md-",
+                    "head": "3",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.525",
+                    "id": "βροτοῖσι_6",
+                    "children": [
+                        {
+                            "wID": "5",
+                            "form": "δειλοῖσι",
+                            "lemma": "δειλός",
+                            "postag": "a-p---md-",
+                            "head": "6",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.525",
+                            "id": "δειλοῖσι_5"
+                        }
+                    ]
+                },
+                {
+                    "wID": "7",
+                    "form": "ζώειν",
+                    "lemma": "ζῶ",
+                    "postag": "v--pna---",
+                    "head": "3",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:24.526",
+                    "id": "ζώειν_7",
+                    "children": [
+                        {
+                            "wID": "8",
+                            "form": "ἀχνυμένοις",
+                            "lemma": "ἀχεύω",
+                            "postag": "v-ppppmd-",
+                            "head": "7",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.526",
+                            "id": "ἀχνυμένοις_8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "9",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:24.526",
+            "id": "·_9"
+        }
+    ]
+}

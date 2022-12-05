@@ -1,0 +1,124 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "δ'",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.363",
+            "id": "δ'_5",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "φάτο",
+                    "lemma": "φημί",
+                    "postag": "v3saim---",
+                    "head": "5",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.363",
+                    "id": "φάτο_2",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.363",
+                            "id": "ὣς_1"
+                        }
+                    ]
+                },
+                {
+                    "wID": "3",
+                    "form": ",",
+                    "lemma": ",",
+                    "postag": "u--------",
+                    "head": "5",
+                    "relation": "AuxX",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.363",
+                    "id": ",_3"
+                },
+                {
+                    "wID": "8",
+                    "form": "δῶκε",
+                    "lemma": "δίδωμι",
+                    "postag": "v3saia---",
+                    "head": "5",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.363",
+                    "id": "δῶκε_8",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "τῇ",
+                            "lemma": "ὁ",
+                            "postag": "p-s---fd-",
+                            "head": "8",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.363",
+                            "id": "τῇ_4"
+                        },
+                        {
+                            "wID": "6",
+                            "form": "ἄρ'",
+                            "lemma": "ἄρα",
+                            "postag": "g--------",
+                            "head": "8",
+                            "relation": "AuxY",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.363",
+                            "id": "ἄρ'_6"
+                        },
+                        {
+                            "wID": "7",
+                            "form": "Ἄρης",
+                            "lemma": "Ἄρης",
+                            "postag": "n-s---mn-",
+                            "head": "8",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.363",
+                            "id": "Ἄρης_7"
+                        },
+                        {
+                            "wID": "10",
+                            "form": "ἵππους",
+                            "lemma": "ἵππος",
+                            "postag": "n-p---ma-",
+                            "head": "8",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.363",
+                            "id": "ἵππους_10",
+                            "children": [
+                                {
+                                    "wID": "9",
+                                    "form": "χρυσάμπυκας",
+                                    "lemma": "χρυσάμπυξ",
+                                    "postag": "a-p---ma-",
+                                    "head": "10",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:5.363",
+                                    "id": "χρυσάμπυκας_9"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "11",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:5.363",
+            "id": "·_11"
+        }
+    ]
+}

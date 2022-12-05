@@ -1,0 +1,90 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "3",
+            "form": "δέχεται",
+            "lemma": "δέχομαι",
+            "postag": "v3spie---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.290",
+            "id": "δέχεται_3",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὥς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "3",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.290",
+                    "id": "ὥς_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "μοι",
+                    "lemma": "ἐγώ",
+                    "postag": "p-s---fd-",
+                    "head": "3",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.290",
+                    "id": "μοι_2"
+                },
+                {
+                    "wID": "4",
+                    "form": "κακὸν",
+                    "lemma": "κακός",
+                    "postag": "a-s---nn-",
+                    "head": "3",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.290",
+                    "id": "κακὸν_4"
+                },
+                {
+                    "wID": "5",
+                    "form": "ἐκ",
+                    "lemma": "ἐκ",
+                    "postag": "r--------",
+                    "head": "3",
+                    "relation": "AuxP",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.290",
+                    "id": "ἐκ_5",
+                    "children": [
+                        {
+                            "wID": "6",
+                            "form": "κακοῦ",
+                            "lemma": "κακός",
+                            "postag": "a-s---ng-",
+                            "head": "5",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.290",
+                            "id": "κακοῦ_6"
+                        }
+                    ]
+                },
+                {
+                    "wID": "7",
+                    "form": "αἰεί",
+                    "lemma": "ἀεί",
+                    "postag": "d--------",
+                    "head": "3",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:19.290",
+                    "id": "αἰεί_7"
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:19.290",
+            "id": "._8"
+        }
+    ]
+}

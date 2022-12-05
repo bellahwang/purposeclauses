@@ -1,0 +1,80 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "6",
+            "form": "διείρεο",
+            "lemma": "διείρομαι",
+            "postag": "v2spme---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.93",
+            "id": "διείρεο_6",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "μή",
+                    "lemma": "μή",
+                    "postag": "d--------",
+                    "head": "6",
+                    "relation": "AuxZ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.93",
+                    "id": "μή_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "με",
+                    "lemma": "ἐγώ",
+                    "postag": "p-s---fa-",
+                    "head": "6",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.93",
+                    "id": "με_2"
+                },
+                {
+                    "wID": "4",
+                    "form": "Θέμι",
+                    "lemma": "θέμις",
+                    "postag": "n-s---fv-",
+                    "head": "6",
+                    "relation": "ExD",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.93",
+                    "id": "Θέμι_4",
+                    "children": [
+                        {
+                            "wID": "3",
+                            "form": "θεὰ",
+                            "lemma": "θεά",
+                            "postag": "n-s---fv-",
+                            "head": "4",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.93",
+                            "id": "θεὰ_3"
+                        }
+                    ]
+                },
+                {
+                    "wID": "5",
+                    "form": "ταῦτα",
+                    "lemma": "οὗτος",
+                    "postag": "a-p---na-",
+                    "head": "6",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.93",
+                    "id": "ταῦτα_5"
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.93",
+            "id": "·_7"
+        }
+    ]
+}

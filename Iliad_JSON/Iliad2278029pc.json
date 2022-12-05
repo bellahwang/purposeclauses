@@ -1,0 +1,92 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "6",
+            "form": "ὄτρυνον",
+            "lemma": "ὀτρύνω",
+            "postag": "v3piia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:12.277",
+            "id": "ὄτρυνον_6",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὣς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "6",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:12.277",
+                    "id": "ὣς_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "τώ",
+                    "lemma": "ὁ",
+                    "postag": "p-d---mn-",
+                    "head": "6",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:12.277",
+                    "id": "τώ_2",
+                    "children": [
+                        {
+                            "wID": "3",
+                            "form": "γε",
+                            "lemma": "γε",
+                            "postag": "g--------",
+                            "head": "2",
+                            "relation": "AuxZ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:12.277",
+                            "id": "γε_3"
+                        }
+                    ]
+                },
+                {
+                    "wID": "4",
+                    "form": "προβοῶντε",
+                    "lemma": "προβοάω",
+                    "postag": "v-dppamn-",
+                    "head": "6",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:12.277",
+                    "id": "προβοῶντε_4"
+                },
+                {
+                    "wID": "5",
+                    "form": "μάχην",
+                    "lemma": "μάχη",
+                    "postag": "n-s---fa-",
+                    "head": "6",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:12.277",
+                    "id": "μάχην_5",
+                    "children": [
+                        {
+                            "wID": "7",
+                            "form": "Ἀχαιῶν",
+                            "lemma": "Ἀχαιός",
+                            "postag": "a-p---mg-",
+                            "head": "5",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:12.277",
+                            "id": "Ἀχαιῶν_7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:12.277",
+            "id": "._8"
+        }
+    ]
+}

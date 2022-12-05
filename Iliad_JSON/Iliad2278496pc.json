@@ -1,0 +1,80 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "ἕστασαν",
+            "lemma": "ἵστημι",
+            "postag": "v3plia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:13.708",
+            "id": "ἕστασαν_5",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὣς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "5",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:13.708",
+                    "id": "ὣς_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "τὼ",
+                    "lemma": "ὁ",
+                    "postag": "p-d---mn-",
+                    "head": "5",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:13.708",
+                    "id": "τὼ_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "παρβεβαῶτε",
+                    "lemma": "παραβαίνω",
+                    "postag": "v-drpamn-",
+                    "head": "5",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:13.708",
+                    "id": "παρβεβαῶτε_3",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "μάλ'",
+                            "lemma": "μάλα",
+                            "postag": "d--------",
+                            "head": "3",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:13.708",
+                            "id": "μάλ'_4"
+                        },
+                        {
+                            "wID": "6",
+                            "form": "ἀλλήλοιιν",
+                            "lemma": "ἀλλήλων",
+                            "postag": "a-d---md-",
+                            "head": "3",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:13.708",
+                            "id": "ἀλλήλοιιν_6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:13.708",
+            "id": "._7"
+        }
+    ]
+}

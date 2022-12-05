@@ -1,0 +1,148 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "5",
+            "form": "καὶ",
+            "lemma": "καί",
+            "postag": "c--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.465",
+            "id": "καὶ_5",
+            "children": [
+                {
+                    "wID": "3",
+                    "form": "ἐφώνησεν",
+                    "lemma": "φωνέω",
+                    "postag": "v3saia---",
+                    "head": "5",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.465",
+                    "id": "ἐφώνησεν_3",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "3",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.465",
+                            "id": "ὣς_1"
+                        },
+                        {
+                            "wID": "2",
+                            "form": "ἄρ'",
+                            "lemma": "ἄρα",
+                            "postag": "g--------",
+                            "head": "3",
+                            "relation": "AuxY",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.465",
+                            "id": "ἄρ'_2"
+                        }
+                    ]
+                },
+                {
+                    "wID": "4",
+                    "form": ",",
+                    "lemma": ",",
+                    "postag": "u--------",
+                    "head": "5",
+                    "relation": "AuxX",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.465",
+                    "id": ",_4"
+                },
+                {
+                    "wID": "10",
+                    "form": "θῆκεν",
+                    "lemma": "τίθημι",
+                    "postag": "v3saia---",
+                    "head": "5",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.466",
+                    "id": "θῆκεν_10",
+                    "children": [
+                        {
+                            "wID": "9",
+                            "form": "ἀείρας",
+                            "lemma": "ἀείρω",
+                            "postag": "v-sapamn-",
+                            "head": "10",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.465",
+                            "id": "ἀείρας_9",
+                            "children": [
+                                {
+                                    "wID": "6",
+                                    "form": "ἀπὸ",
+                                    "lemma": "ἀπό",
+                                    "postag": "r--------",
+                                    "head": "9",
+                                    "relation": "AuxP",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.465",
+                                    "id": "ἀπὸ_6",
+                                    "children": [
+                                        {
+                                            "wID": "7",
+                                            "form": "ἕθεν",
+                                            "lemma": "ἕ",
+                                            "postag": "p-s---mg-",
+                                            "head": "6",
+                                            "relation": "OBJ",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.465",
+                                            "id": "ἕθεν_7"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wID": "8",
+                                    "form": "ὑψόσ'",
+                                    "lemma": "ὑψόσε",
+                                    "postag": "d--------",
+                                    "head": "9",
+                                    "relation": "ADV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.465",
+                                    "id": "ὑψόσ'_8"
+                                }
+                            ]
+                        },
+                        {
+                            "wID": "11",
+                            "form": "ἀνὰ",
+                            "lemma": "ἀνά",
+                            "postag": "r--------",
+                            "head": "10",
+                            "relation": "AuxP",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.466",
+                            "id": "ἀνὰ_11",
+                            "children": [
+                                {
+                                    "wID": "12",
+                                    "form": "μυρίκην",
+                                    "lemma": "μυρίκη",
+                                    "postag": "n-s---fa-",
+                                    "head": "11",
+                                    "relation": "OBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.466",
+                                    "id": "μυρίκην_12"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "13",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.466",
+            "id": "·_13"
+        }
+    ]
+}

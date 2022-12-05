@@ -1,0 +1,84 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "2",
+            "form": "ὄφελεν",
+            "lemma": "ὀφείλω",
+            "postag": "v3saia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.426",
+            "id": "ὄφελεν_2",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὡς",
+                    "lemma": "ὡς",
+                    "postag": "i--------",
+                    "head": "2",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.426",
+                    "id": "ὡς_1"
+                },
+                {
+                    "wID": "3",
+                    "form": "θανέειν",
+                    "lemma": "θνήσκω",
+                    "postag": "v--ana---",
+                    "head": "2",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.426",
+                    "id": "θανέειν_3",
+                    "children": [
+                        {
+                            "wID": "4",
+                            "form": "ἐν",
+                            "lemma": "ἐν",
+                            "postag": "r--------",
+                            "head": "3",
+                            "relation": "AuxP",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.426",
+                            "id": "ἐν_4",
+                            "children": [
+                                {
+                                    "wID": "5",
+                                    "form": "χερσὶν",
+                                    "lemma": "χείρ",
+                                    "postag": "n-p---fd-",
+                                    "head": "4",
+                                    "relation": "ADV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:22.426",
+                                    "id": "χερσὶν_5",
+                                    "children": [
+                                        {
+                                            "wID": "6",
+                                            "form": "ἐμῇσι",
+                                            "lemma": "ἐμός",
+                                            "postag": "a-p---fd-",
+                                            "head": "5",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.426",
+                                            "id": "ἐμῇσι_6"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:22.426",
+            "id": "·_7"
+        }
+    ]
+}

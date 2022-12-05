@@ -1,0 +1,104 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "2",
+            "form": "δὲ",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:23.177",
+            "id": "δὲ_2",
+            "children": [
+                {
+                    "wID": "5",
+                    "form": "ἧκε",
+                    "lemma": "ἵημι",
+                    "postag": "v3saia---",
+                    "head": "2",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:23.177",
+                    "id": "ἧκε_5",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ἐν",
+                            "lemma": "ἐν",
+                            "postag": "r--------",
+                            "head": "5",
+                            "relation": "AuxZ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:23.177",
+                            "id": "ἐν_1"
+                        },
+                        {
+                            "wID": "4",
+                            "form": "μένος",
+                            "lemma": "μένος",
+                            "postag": "n-s---na-",
+                            "head": "5",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:23.177",
+                            "id": "μένος_4",
+                            "children": [
+                                {
+                                    "wID": "3",
+                                    "form": "πυρὸς",
+                                    "lemma": "πῦρ",
+                                    "postag": "n-s---ng-",
+                                    "head": "4",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:23.177",
+                                    "id": "πυρὸς_3"
+                                },
+                                {
+                                    "wID": "6",
+                                    "form": "σιδήρεον",
+                                    "lemma": "σιδήρεος",
+                                    "postag": "a-s---na-",
+                                    "head": "4",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:23.177",
+                                    "id": "σιδήρεον_6"
+                                }
+                            ]
+                        },
+                        {
+                            "wID": "7",
+                            "form": "ὄφρα",
+                            "lemma": "ὄφρα",
+                            "postag": "c--------",
+                            "head": "5",
+                            "relation": "AuxC",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:23.177",
+                            "id": "ὄφρα_7",
+                            "children": [
+                                {
+                                    "wID": "8",
+                                    "form": "νέμοιτο",
+                                    "lemma": "νέμω",
+                                    "postag": "v3spoe---",
+                                    "head": "7",
+                                    "relation": "ADV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:23.177",
+                                    "id": "νέμοιτο_8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "9",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:23.177",
+            "id": "._9"
+        }
+    ]
+}

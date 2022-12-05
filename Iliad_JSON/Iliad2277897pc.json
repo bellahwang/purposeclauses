@@ -1,0 +1,161 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "1",
+            "form": "ἔρχομαι",
+            "lemma": "ἔρχομαι",
+            "postag": "v1spie---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.839",
+            "id": "ἔρχομαι_1",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "ὄφρ'",
+                    "lemma": "ὄφρα",
+                    "postag": "c--------",
+                    "head": "1",
+                    "relation": "AuxC",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.839",
+                    "id": "ὄφρ'_2",
+                    "children": [
+                        {
+                            "wID": "6",
+                            "form": "ἐνίσπω",
+                            "lemma": "ἐνέπω",
+                            "postag": "v1sasa---",
+                            "head": "2",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.839",
+                            "id": "ἐνίσπω_6",
+                            "children": [
+                                {
+                                    "wID": "3",
+                                    "form": "Ἀχιλῆϊ",
+                                    "lemma": "Ἀχιλλεύς",
+                                    "postag": "n-s---md-",
+                                    "head": "6",
+                                    "relation": "OBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.839",
+                                    "id": "Ἀχιλῆϊ_3",
+                                    "children": [
+                                        {
+                                            "wID": "4",
+                                            "form": "δαΐφρονι",
+                                            "lemma": "δαίφρων",
+                                            "postag": "a-s----d-",
+                                            "head": "3",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.839",
+                                            "id": "δαΐφρονι_4"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wID": "5",
+                                    "form": "μῦθον",
+                                    "lemma": "μῦθος",
+                                    "postag": "n-s---ma-",
+                                    "head": "6",
+                                    "relation": "OBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.839",
+                                    "id": "μῦθον_5",
+                                    "children": [
+                                        {
+                                            "wID": "9",
+                                            "form": "ἐπέτελλε",
+                                            "lemma": "ἐπιτέλλω",
+                                            "postag": "v3siia---",
+                                            "head": "5",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.840",
+                                            "id": "ἐπέτελλε_9",
+                                            "children": [
+                                                {
+                                                    "wID": "7",
+                                                    "form": "ὃν",
+                                                    "lemma": "ὅς",
+                                                    "postag": "p-s---ma-",
+                                                    "head": "9",
+                                                    "relation": "OBJ",
+                                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.840",
+                                                    "id": "ὃν_7"
+                                                },
+                                                {
+                                                    "wID": "14",
+                                                    "form": "[0]",
+                                                    "head": "9",
+                                                    "relation": "APOS",
+                                                    "id": "[0]_14",
+                                                    "children": [
+                                                        {
+                                                            "wID": "8",
+                                                            "form": "Νέστωρ",
+                                                            "lemma": "Νέστωρ",
+                                                            "postag": "n-s---mn-",
+                                                            "head": "14",
+                                                            "relation": "SBJ_AP",
+                                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.840",
+                                                            "id": "Νέστωρ_8",
+                                                            "children": [
+                                                                {
+                                                                    "wID": "10",
+                                                                    "form": "Γερήνιος",
+                                                                    "lemma": "Γερήνιος",
+                                                                    "postag": "a-s---mn-",
+                                                                    "head": "8",
+                                                                    "relation": "ATR",
+                                                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.840",
+                                                                    "id": "Γερήνιος_10"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "wID": "11",
+                                                            "form": "οὖρος",
+                                                            "lemma": "οὖρος",
+                                                            "postag": "n-s---mn-",
+                                                            "head": "14",
+                                                            "relation": "SBJ_AP",
+                                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.840",
+                                                            "id": "οὖρος_11",
+                                                            "children": [
+                                                                {
+                                                                    "wID": "12",
+                                                                    "form": "Ἀχαιῶν",
+                                                                    "lemma": "Ἀχαιός",
+                                                                    "postag": "a-p---mg-",
+                                                                    "head": "11",
+                                                                    "relation": "ATR",
+                                                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:11.840",
+                                                                    "id": "Ἀχαιῶν_12"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "13",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:11.840",
+            "id": "·_13"
+        }
+    ]
+}

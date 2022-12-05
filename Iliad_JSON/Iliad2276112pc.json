@@ -1,0 +1,82 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "4",
+            "form": "ἀπέβη",
+            "lemma": "ἀποβαίνω",
+            "postag": "v3saia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:6.369",
+            "id": "ἀπέβη_4",
+            "children": [
+                {
+                    "wID": "3",
+                    "form": "φωνήσας",
+                    "lemma": "φωνέω",
+                    "postag": "v-sapamn-",
+                    "head": "4",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:6.369",
+                    "id": "φωνήσας_3",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "ὣς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "3",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:6.369",
+                            "id": "ὣς_1"
+                        },
+                        {
+                            "wID": "2",
+                            "form": "ἄρα",
+                            "lemma": "ἄρα",
+                            "postag": "g--------",
+                            "head": "3",
+                            "relation": "AuxY",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:6.369",
+                            "id": "ἄρα_2"
+                        }
+                    ]
+                },
+                {
+                    "wID": "6",
+                    "form": "Ἕκτωρ",
+                    "lemma": "Ἕκτωρ",
+                    "postag": "n-s---mn-",
+                    "head": "4",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:6.369",
+                    "id": "Ἕκτωρ_6",
+                    "children": [
+                        {
+                            "wID": "5",
+                            "form": "κορυθαίολος",
+                            "lemma": "κορυθαίολος",
+                            "postag": "a-s---mn-",
+                            "head": "6",
+                            "relation": "ATR",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:6.369",
+                            "id": "κορυθαίολος_5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:6.369",
+            "id": "·_7"
+        }
+    ]
+}

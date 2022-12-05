@@ -1,0 +1,110 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "4",
+            "form": "δέ",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.383",
+            "id": "δέ_4",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "θάρσει",
+                    "lemma": "θαρσέω",
+                    "postag": "v2spma---",
+                    "head": "4",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.383",
+                    "id": "θάρσει_1"
+                },
+                {
+                    "wID": "2",
+                    "form": ",",
+                    "lemma": ",",
+                    "postag": "u--------",
+                    "head": "4",
+                    "relation": "AuxX",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.383",
+                    "id": ",_2"
+                },
+                {
+                    "wID": "9",
+                    "form": "ἔστω",
+                    "lemma": "εἰμί",
+                    "postag": "v3spma---",
+                    "head": "4",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:10.383",
+                    "id": "ἔστω_9",
+                    "children": [
+                        {
+                            "wID": "3",
+                            "form": "μη",
+                            "lemma": "μή",
+                            "postag": "g--------",
+                            "head": "9",
+                            "relation": "AuxZ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.383",
+                            "id": "μη_3"
+                        },
+                        {
+                            "wID": "5",
+                            "form": "τί",
+                            "lemma": "τις",
+                            "postag": "p-s---na-",
+                            "head": "9",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.383",
+                            "id": "τί_5"
+                        },
+                        {
+                            "wID": "6",
+                            "form": "τοι",
+                            "lemma": "σύ",
+                            "postag": "p-s----d-",
+                            "head": "9",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.383",
+                            "id": "τοι_6"
+                        },
+                        {
+                            "wID": "7",
+                            "form": "θάνατος",
+                            "lemma": "θάνατος",
+                            "postag": "n-s---mn-",
+                            "head": "9",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.383",
+                            "id": "θάνατος_7"
+                        },
+                        {
+                            "wID": "8",
+                            "form": "καταθύμιος",
+                            "lemma": "καταθύμιος",
+                            "postag": "a-s---mn-",
+                            "head": "9",
+                            "relation": "PNOM",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.383",
+                            "id": "καταθύμιος_8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "10",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:10.383",
+            "id": "._10"
+        }
+    ]
+}

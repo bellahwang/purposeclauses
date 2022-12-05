@@ -1,0 +1,80 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "1",
+            "form": "οἶσθ'",
+            "lemma": "οἶδα",
+            "postag": "v2sria---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.204",
+            "id": "οἶσθ'_1",
+            "children": [
+                {
+                    "wID": "6",
+                    "form": "ἕπονται",
+                    "lemma": "ἕπομαι",
+                    "postag": "v3ppie---",
+                    "head": "1",
+                    "relation": "OBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:15.204",
+                    "id": "ἕπονται_6",
+                    "children": [
+                        {
+                            "wID": "2",
+                            "form": "ὡς",
+                            "lemma": "ὡς",
+                            "postag": "d--------",
+                            "head": "6",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.204",
+                            "id": "ὡς_2"
+                        },
+                        {
+                            "wID": "3",
+                            "form": "πρεσβυτέροισιν",
+                            "lemma": "πρέσβυς",
+                            "postag": "a-p---md-",
+                            "head": "6",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.204",
+                            "id": "πρεσβυτέροισιν_3"
+                        },
+                        {
+                            "wID": "4",
+                            "form": "Ἐρινύες",
+                            "lemma": "Ἐρινύς",
+                            "postag": "n-p---fn-",
+                            "head": "6",
+                            "relation": "SBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.204",
+                            "id": "Ἐρινύες_4"
+                        },
+                        {
+                            "wID": "5",
+                            "form": "αἰὲν",
+                            "lemma": "ἀεί",
+                            "postag": "d--------",
+                            "head": "6",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.204",
+                            "id": "αἰὲν_5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:15.204",
+            "id": "._7"
+        }
+    ]
+}

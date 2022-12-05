@@ -1,0 +1,82 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "1",
+            "form": "δείδιε",
+            "lemma": "δείδω",
+            "postag": "v3sria---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.34",
+            "id": "δείδιε_1",
+            "children": [
+                {
+                    "wID": "2",
+                    "form": "γὰρ",
+                    "lemma": "γάρ",
+                    "postag": "g--------",
+                    "head": "1",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.34",
+                    "id": "γὰρ_2"
+                },
+                {
+                    "wID": "3",
+                    "form": "μὴ",
+                    "lemma": "μή",
+                    "postag": "c--------",
+                    "head": "1",
+                    "relation": "AuxC",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.34",
+                    "id": "μὴ_3",
+                    "children": [
+                        {
+                            "wID": "5",
+                            "form": "ἀπαμήσειε",
+                            "lemma": "ἀπαμάω",
+                            "postag": "v3saoa---",
+                            "head": "3",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.34",
+                            "id": "ἀπαμήσειε_5",
+                            "children": [
+                                {
+                                    "wID": "4",
+                                    "form": "λαιμὸν",
+                                    "lemma": "λαιμός",
+                                    "postag": "n-s---ma-",
+                                    "head": "5",
+                                    "relation": "OBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.34",
+                                    "id": "λαιμὸν_4"
+                                },
+                                {
+                                    "wID": "6",
+                                    "form": "σιδήρῳ",
+                                    "lemma": "σίδηρος",
+                                    "postag": "n-s---md-",
+                                    "head": "5",
+                                    "relation": "ADV",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:18.34",
+                                    "id": "σιδήρῳ_6"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "7",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:18.34",
+            "id": "._7"
+        }
+    ]
+}

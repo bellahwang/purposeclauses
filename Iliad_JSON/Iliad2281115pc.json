@@ -1,0 +1,114 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "2",
+            "form": "δέ",
+            "lemma": "δέ",
+            "postag": "g--------",
+            "head": "0",
+            "relation": "COORD",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.338",
+            "id": "δέ_2",
+            "children": [
+                {
+                    "wID": "7",
+                    "form": "ἀποτρεπέτω",
+                    "lemma": "ἀποτρέπω",
+                    "postag": "v3spma---",
+                    "head": "2",
+                    "relation": "PRED_CO",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.339",
+                    "id": "ἀποτρεπέτω_7",
+                    "children": [
+                        {
+                            "wID": "1",
+                            "form": "μὴ",
+                            "lemma": "μή",
+                            "postag": "g--------",
+                            "head": "7",
+                            "relation": "AuxZ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.338",
+                            "id": "μὴ_1"
+                        },
+                        {
+                            "wID": "3",
+                            "form": "σε",
+                            "lemma": "σύ",
+                            "postag": "p-s---ma-",
+                            "head": "7",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.338",
+                            "id": "σε_3"
+                        },
+                        {
+                            "wID": "4",
+                            "form": "πάμπαν",
+                            "lemma": "πάμπαν",
+                            "postag": "d--------",
+                            "head": "7",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.338",
+                            "id": "πάμπαν_4"
+                        },
+                        {
+                            "wID": "8",
+                            "form": "καὶ",
+                            "lemma": "καί",
+                            "postag": "c--------",
+                            "head": "7",
+                            "relation": "COORD",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.339",
+                            "id": "καὶ_8",
+                            "children": [
+                                {
+                                    "wID": "6",
+                                    "form": "ἐπέεσσιν",
+                                    "lemma": "ἔπος",
+                                    "postag": "n-p---nd-",
+                                    "head": "8",
+                                    "relation": "ADV_CO",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.339",
+                                    "id": "ἐπέεσσιν_6",
+                                    "children": [
+                                        {
+                                            "wID": "5",
+                                            "form": "μειλιχίοις",
+                                            "lemma": "μειλίχιος",
+                                            "postag": "a-p---nd-",
+                                            "head": "6",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.339",
+                                            "id": "μειλιχίοις_5"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "wID": "9",
+                                    "form": "ἀρειῇ",
+                                    "lemma": "ἀρειή",
+                                    "postag": "n-s---fd-",
+                                    "head": "8",
+                                    "relation": "ADV_CO",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.339",
+                                    "id": "ἀρειῇ_9"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "10",
+            "form": "·",
+            "lemma": "·",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.339",
+            "id": "·_10"
+        }
+    ]
+}

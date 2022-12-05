@@ -1,0 +1,116 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "7",
+            "form": "πτῶσσον",
+            "lemma": "πτώσσω",
+            "postag": "v3piia---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.26",
+            "id": "πτῶσσον_7",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ὣς",
+                    "lemma": "ὡς",
+                    "postag": "d--------",
+                    "head": "7",
+                    "relation": "ADV",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.25",
+                    "id": "ὣς_1"
+                },
+                {
+                    "wID": "2",
+                    "form": "Τρῶες",
+                    "lemma": "Τρώς",
+                    "postag": "n-p---mn-",
+                    "head": "7",
+                    "relation": "SBJ",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.25",
+                    "id": "Τρῶες_2"
+                },
+                {
+                    "wID": "4",
+                    "form": "κατὰ",
+                    "lemma": "κατά",
+                    "postag": "r--------",
+                    "head": "7",
+                    "relation": "AuxP",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.25",
+                    "id": "κατὰ_4",
+                    "children": [
+                        {
+                            "wID": "6",
+                            "form": "ῥέεθρα",
+                            "lemma": "ῥεῖθρον",
+                            "postag": "n-p---na-",
+                            "head": "4",
+                            "relation": "OBJ",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.25",
+                            "id": "ῥέεθρα_6",
+                            "children": [
+                                {
+                                    "wID": "3",
+                                    "form": "ποταμοῖο",
+                                    "lemma": "ποταμός",
+                                    "postag": "n-s---mg-",
+                                    "head": "6",
+                                    "relation": "ATR",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.25",
+                                    "id": "ποταμοῖο_3",
+                                    "children": [
+                                        {
+                                            "wID": "5",
+                                            "form": "δεινοῖο",
+                                            "lemma": "δεινός",
+                                            "postag": "a-s---mg-",
+                                            "head": "3",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.25",
+                                            "id": "δεινοῖο_5"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wID": "8",
+                    "form": "ὑπὸ",
+                    "lemma": "ὑπό",
+                    "postag": "r--------",
+                    "head": "7",
+                    "relation": "AuxP",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:21.26",
+                    "id": "ὑπὸ_8",
+                    "children": [
+                        {
+                            "wID": "9",
+                            "form": "κρημνούς",
+                            "lemma": "κρημνός",
+                            "postag": "n-p---ma-",
+                            "head": "8",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.26",
+                            "id": "κρημνούς_9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "10",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:21.26",
+            "id": "._10"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "wID": "0",
+    "id": "ROOT",
+    "children": [
+        {
+            "wID": "2",
+            "form": "μέν'",
+            "lemma": "μένω",
+            "postag": "v2spma---",
+            "head": "0",
+            "relation": "PRED",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:8.96",
+            "id": "μέν'_2",
+            "children": [
+                {
+                    "wID": "1",
+                    "form": "ἀλλὰ",
+                    "lemma": "ἀλλά",
+                    "postag": "d--------",
+                    "head": "2",
+                    "relation": "AuxY",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:8.96",
+                    "id": "ἀλλὰ_1"
+                },
+                {
+                    "wID": "3",
+                    "form": "ὄφρα",
+                    "lemma": "ὄφρα",
+                    "postag": "c--------",
+                    "head": "2",
+                    "relation": "AuxC",
+                    "cite": "urn:cts:greekLit:tlg0012.tlg001:8.96",
+                    "id": "ὄφρα_3",
+                    "children": [
+                        {
+                            "wID": "5",
+                            "form": "ἀπώσομεν",
+                            "lemma": "ἀπωθέω",
+                            "postag": "v1pasa---",
+                            "head": "3",
+                            "relation": "ADV",
+                            "cite": "urn:cts:greekLit:tlg0012.tlg001:8.96",
+                            "id": "ἀπώσομεν_5",
+                            "children": [
+                                {
+                                    "wID": "4",
+                                    "form": "γέροντος",
+                                    "lemma": "γέρων",
+                                    "postag": "n-s---mg-",
+                                    "head": "5",
+                                    "relation": "OBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:8.96",
+                                    "id": "γέροντος_4"
+                                },
+                                {
+                                    "wID": "7",
+                                    "form": "ἄνδρα",
+                                    "lemma": "ἀνήρ",
+                                    "postag": "n-s---ma-",
+                                    "head": "5",
+                                    "relation": "OBJ",
+                                    "cite": "urn:cts:greekLit:tlg0012.tlg001:8.96",
+                                    "id": "ἄνδρα_7",
+                                    "children": [
+                                        {
+                                            "wID": "6",
+                                            "form": "ἄγριον",
+                                            "lemma": "ἄγριος",
+                                            "postag": "a-s---ma-",
+                                            "head": "7",
+                                            "relation": "ATR",
+                                            "cite": "urn:cts:greekLit:tlg0012.tlg001:8.96",
+                                            "id": "ἄγριον_6"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "wID": "8",
+            "form": ".",
+            "lemma": ".",
+            "postag": "u--------",
+            "head": "0",
+            "relation": "AuxK",
+            "cite": "urn:cts:greekLit:tlg0012.tlg001:8.96",
+            "id": "._8"
+        }
+    ]
+}
