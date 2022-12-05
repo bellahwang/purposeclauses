@@ -1,0 +1,30 @@
+.newLinkText {
+    font-size: 12;
+    fill: black;
+    stroke: #FFFFFF;
+    stroke-width: 1.5;
+}
+
+.link {
+    fill: none;
+    stroke: #555;
+    stroke-opacity: 0.4;
+    stroke-width: 1.5;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: left;
+    border: solid;
+    border-radius: 7px;
+    border-width: 1px;
+    width: 60px;
+    height: 45px;
+    padding: 8px;
+    margin-top: -20px;
+    font: 10px sans-serif;
+    background: #ddd;
+    pointer-events: none;
+    white-space: pre;
+    inline-size: min-content;
+}
