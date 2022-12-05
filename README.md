@@ -1,4 +1,4 @@
-This repository contains the scripts and files of purpose clauses that I generated from the Iliad.
+# Purpose Clauses in the Iliad - Creating Interactive Data Visualizations using d3.js
 
 ## Iliad_DataFilter
 "datafilter.py" contains the functions that I wrote to extract only purpose clauses from the Iliad, and "datafilter_README.md" describes how I went about writing this script. "iliad_purposeclauses.xml" is the result of "datafilter.py" and only contains purpose clauses.
