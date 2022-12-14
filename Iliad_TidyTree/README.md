@@ -1,3 +1,3 @@
 # Demonstration
 
-![Alt Text](https://github.com/bellahwang/purposeclauses/blob/main/Iliad_TidyTree/iliad-tidytree.gif)
+![Demonstration of the TidyTree Interactivity for Iliad](https://github.com/bellahwang/purposeclauses/blob/main/Iliad_TidyTree/iliad-tidytree.gif)
